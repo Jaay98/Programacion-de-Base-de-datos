@@ -11,6 +11,19 @@ CREATE VIEW VWClientesDireccion
 
  select*from VWClientesDireccion
 
+CREATE VIEW VDATOSPROVEEDORES AS
+SELECT Id, nombre, telefono
+FROM tabla_Proveedores
+WHERE Id < 3;
+
+select*from VDATOSPROVEEDORES
+
+CREATE VIEW VPRECIOS AS
+SELECT Productos.Id, Productos.nombre, Productos.descripcion, Productos.precio, Servicios.id, Servicios.descripcion, Servicios.precio
+FROM Productos, Servicios
+WHERE Productos.precio and Servicios.precio < 200;
+
+select*from VPRECIOS
 
  --procedimiento 
 CREATE PROCEDURE ALTA_CLIENTE
