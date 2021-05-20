@@ -42,7 +42,10 @@ SELECT ERROR_NUMBER() AS ErrorNumber
     , ERROR_LINE() AS ErrorLine;END CATCH  
 END;
 
--------TRANSACTION
+-------TRANSACTION 
+
+
+-- Actualizar nombre y apellido materno
 BEGIN TRAN
 UPDATE tabla_clientes
 SET    Apellido_Materno = 'FRANCIS', 
@@ -50,3 +53,54 @@ SET    Apellido_Materno = 'FRANCIS',
 SELECT * FROM tabla_clientes WHERE Id=2
 ROLLBACK TRAN 
 SELECT * FROM tabla_clientes WHERE Id=2
+
+
+
+
+--Insertar datos tabla_clientes
+
+
+
+BEGIN TRAN
+BEGIN TRY 
+
+DECLARE  @Apellido_Paterno varchar(50) = 'QUIROZ',
+    @Apellido_Materno varchar(50)= 'MONTES',
+	@Nombres varchar(50)= 'YIM YETZHAEL',
+	@Telefono varchar(50)= '6643625450',
+	@Correo varchar(50)= 'yim.quiroz17@tectijuana.edu.mx'
+
+INSERT INTO tabla_clientes (Apellido_Paterno,Apellido_Materno,Nombres,Telefono,Correo) values (@Apellido_Paterno,@Apellido_Materno,@Nombres,@Telefono,@Correo)
+END TRY
+BEGIN CATCH
+select  ERROR_NUMBER() AS ErrorNumber  
+    , ERROR_MESSAGE() AS ErrorMessage  
+    , ERROR_LINE() AS ErrorLine,
+	( 'error al insertar hacer rollback' );
+END CATCH  
+
+select*from tabla_clientes
+ROLLBACK TRAN
+
+
+BEGIN TRAN
+BEGIN TRY 
+
+DECLARE  @Calle_y_Numero varchar(100) = 'PADRE KINO',
+    @Colonia varchar(50)= 'LA GLORIA',
+	@Municipio_Ciudad varchar(50)= 'TIJUANA',
+	@Estado varchar(50)= 'BAJA CALIFORNIA',
+	@CP INT= 22657,
+	@Id_clientes INT= NULL
+
+INSERT INTO tabla_direccion(Calle_y_Numero,Colonia,Municipio_Ciudad,Estado,CP,Id_clientes) values (@Calle_y_Numero,@Colonia,@Municipio_Ciudad,@Estado,@CP,@Id_clientes)
+END TRY
+BEGIN CATCH
+select  ERROR_NUMBER() AS ErrorNumber  
+    , ERROR_MESSAGE() AS ErrorMessage  
+    , ERROR_LINE() AS ErrorLine,
+	( 'error al insertar hacer rollback' );
+END CATCH  
+
+select*from tabla_direccion
+ROLLBACK TRAN
