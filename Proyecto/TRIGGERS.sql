@@ -1,5 +1,5 @@
 -----------------------TRIGGER---------------------------
-use ProyectoBaseDatos
+use ProyectoBD9no
 
 CREATE TRIGGER Eliminar_Cliente
 on tabla_clientes for DELETE 

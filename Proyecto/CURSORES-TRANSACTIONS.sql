@@ -1,4 +1,4 @@
-use ProyectoBaseDatos
+use ProyectoBD9no
 
 ----CURSORES
 
@@ -7,7 +7,7 @@ use ProyectoBaseDatos
 DECLARE @nombre varchar(15) , @apellidoP varchar(15)
 --Declaramos el Cursor
 DECLARE CursorEJ CURSOR FOR
-SELECT Apellido_Paterno , Nombre_s FROM tabla_clientes WHERE Apellido_Paterno = 'AGUIRRE' -- Consulta de los Datos
+SELECT Apellido_Paterno , Nombres FROM tabla_clientes WHERE Apellido_Paterno = 'AGUIRRE' -- Consulta de los Datos
 
 OPEN CursorEj -- Abrimos el Cursor
 
@@ -46,7 +46,7 @@ END;
 BEGIN TRAN
 UPDATE tabla_clientes
 SET    Apellido_Materno = 'FRANCIS', 
-        Nombre_s = 'ALONSO'  WHERE Id=2
+        Nombres = 'ALONSO'  WHERE Id=2
 SELECT * FROM tabla_clientes WHERE Id=2
 ROLLBACK TRAN 
 SELECT * FROM tabla_clientes WHERE Id=2

@@ -1,501 +1,501 @@
-Id,Calle y Numero,Colonia,Municipio/Ciudad,Estado,CP
-1,CALLE AGUSTIN LARA NO. 69-B,12 de Noviembre,Tuxtla Gutierrez,Chiapas,29016
-2,AV. INDEPENDENCIA NO. 241,15 de Enero,Chihuahua,Chihuahua,31063
-3,AV. INDEPENDENCIA NO. 779,16 de Septiembre,Culiacan,Sinaloa,80016
-4,AV. 20 DE NOVIEMBRE NO.1024,20 de Noviembre,Tijuana,Baja California,22100
-5,CARRETERA A LOMA ALTA S/N.,3 Caminos,Toluca,Mexico,50020
-6,AV. 20 DE NOVIEMBRE NO. 1060,6 de Enero,Culiacan,Sinaloa,80010
-7,CALLE ZARAGOZA NO. 1010,Adelitas I,Chihuahua,Chihuahua,31054
-8,CALLE MATAMOROS NO. 310,Adonahi,Tuxtla Gutierrez,Chiapas,29016
-9,AV. 20 DE NOVIEMBRE NO.859-B,Agrarista Mexicana,Culiacan,Sinaloa,80014
-10,AV. 20 DE NOVIEMBRE NO 1053,Agua Azul,Tuxtla Gutierrez,Chiapas,29010
-11,BLVD. BENITO JUAREZ NO. 1466-A,Agua Caliente,Tijuana,Baja California,22024
-12,CALLE MATAMOROS NO.280,Agualeguas,Mexicali,Baja California,21090
-13,AV. INDEPENDENCIA NO. 545,Alameda,Culiacan,Sinaloa,80019
-14,AV. INDEPENDENCIA NO. 1282-A,Albania Alta,Tuxtla Gutierrez,Chiapas,29010
-15,CALLE MATAMOROS NO. 127,Albania Baja,Tuxtla Gutierrez,Chiapas,29010
-16,AV.INDEPENDENCIA NO.1010,Allende,Juarez,Chiapas,29515
-17,AV. 5 DE MAYO NO. 1652,Altamira,Tijuana,Baja California,22054
-18,AV. 5 DE MAYO NO. 1108,Altamira Sur,Tijuana,Baja California,22055
-19,AV. INDEPENDENCIA NO. 748,Altavista,Juarez,Chihuahua,32120
-20,AV. INDEPENDENCIA NO. 985-A,Amarantos,Tuxtla Gutierrez,Chiapas,29010
-21,BLVD. BENITO JUAREZ S / N,Americana,Guadalajara,Jalisco,44160
-22,MATAMOROS NO 149,Amorada,Culiacan,Sinaloa,80014
-23,AV. 5 DE MAYO NO 1100-A,Amway,Monterrey,Nuevo Leon,64004
-24,AV. 20 DE NOVIEMBRE NO 1540,Arboledas,Culiacan,Sinaloa,80010
-25,AV. 5 DE MAYO NO 1253,Arboledas,Tabasco,Zacatecas,99630
-26,CALLE OCAMPO NO 14,Arcos,Guadalajara,Jalisco,44130
-27,BLVD. BENITO JUAREZ ESQ. 20 DE NOVIEMBRE S/N,Arcos del Sol Elite,Monterrey,Nuevo Leon,64102
-28,CALLE ALDAMA NO 156,Arcos Vallarta,Guadalajara,Jalisco,44130
-29,AV. INDEPENDENCIA NO 145,Arroyo Colorado,Juarez,Chihuahua,32140
-30,AV. 20 DE NOVIEMBRE NO 1046,Artesanos,Guadalajara,Jalisco,44200
-31,CALLE IGNACIO RAYON NO.949,Autocinema,Guadalajara,Jalisco,44230
-32,CALLE IGNACIO RAYON NO.934,Axolahua,Azcapotzalco,Distrito Federal,2460
-33,AV. 20 DE NOV. NO. 881 ESQ. ALDAMA,Azcapotzalco,Azcapotzalco,Distrito Federal,2070
-34,AV. 20 DE NOVIEMBRE NO. 1178,Azcona,Tijuana,Baja California,22055
-35,AV. 5 DE MAYO NO. 1226,Aztecas,Mexicali,Baja California,21137
-36,AV. INDEPENDENCIA S/N EXT. DEL MERCADO CENTRAL ESQ. BENITO JUAREZ,Baja California,Mexicali,Baja California,21130
-37,MATAMOROS NO 85 ESQ. 20 DE NOVIEMBRE,Balbuena,Mexicali,Baja California,21070
-38,AV. 20 DE NOVIEMBRE NO 1320,Balconcitos,Tabasco,Zacatecas,99630
-39,CALLE OCAMPO NO. 254,Barrera,Guadalajara,Jalisco,44150
-40,AV.INDEPENDENCIA NO. 678,Barrio Acero,Monterrey,Nuevo Leon,64102
-41,AV. INDEPENDENCIA N0.677,Barrio Alameda,Monterrey,Nuevo Leon,64102
-42,CALLE MORELOS NO. 72-B,Barrio Alto,Juarez,Chihuahua,32160
-43,CALLE ALDAMA NO.50,Barrio de Londres,Chihuahua,Chihuahua,31060
-44,CALLE IGNACIO MATIAS NO.6,Barrio del Parque,Monterrey,Nuevo Leon,64102
-45,AV. INDEPENDENCIA NO. 670,Barrio del Prado,Monterrey,Nuevo Leon,64102
-46,PROL.5 DE MAYO NO.786,Barrio Margaritas,Monterrey,Nuevo Leon,64102
-47,AV. LIBERTAD NO. 495,Barrio Mezquitan,Guadalajara,Jalisco,44260
-48,AV. 5 NO. 1186 A,Barrio Mirasol II,Monterrey,Nuevo Leon,64102
-49,AV. 5 NO.1186-A,Barrio Moderna,Monterrey,Nuevo Leon,64102
-50,AV. 20 DE NOVIEMBRE ESQ. JUAREZ,Barrio San Carlos,Monterrey,Nuevo Leon,64102
-51,AV. INDEPENDENCIA N0.670,Barrio San Jose,Tabasco,Zacatecas,99630
-52,CALLE BENITO JUAREZ NO.495,Barrio San Luis,Monterrey,Nuevo Leon,64102
-53,20 DE NOVIEMBRE NO. 955,Barrio San Pedro,Monterrey,Nuevo Leon,64102
-54,AV. INDEPENDENCIA 918,Barrio Santa Isabel,Monterrey,Nuevo Leon,64102
-55,AV INDEPENDENCIA 565-A,Barrio Topo Chico,Monterrey,Nuevo Leon,64102
-56,CALLE MATAMOROS NO. 325,Bella Vista,Juarez,Chihuahua,32130
-57,CALLE RIVA PALACIOS NO. 465,Bellavista,Chihuahua,Chihuahua,31050
-58,AV. 20 DE NOVIEMBRE NO. 1291,Bosques de la Mora,Toluca,Mexico,50020
-59,5 DE MAYO 1038,Buena Vista,Culiacan,Sinaloa,80014
-60,INDEPENDENCIA 748,Buena Vista,Culiacan,Sinaloa,80016
-61,AV. 20 DE NOVIEMBRE NO. 963,Bugambilias,Juarez,Chihuahua,32040
-62,AV. 20 DE NOVIEMBRE NO.1896,Cachanilla,Mexicali,Baja California,21137
-63,5 DE MAYO 1660,Calafia,Mexicali,Baja California,21040
-64,20 DE NOVIEMBRE ESQ JUAREZ,Calete,Tijuana,Baja California,22044
-65,AV. JESUS CARRANZA NO. 991,Caliss,Mexicali,Baja California,21010
-66,OCAMPO 254-B,Campestre,Culiacan,Sinaloa,80015
-67,AV. INDEPENDENCIA NO. 240,Campo de Golf,Tijuana,Baja California,22020
-68,AV. INDEPENDENCIA NO. 545-D,Candox,Tuxtla Gutierrez,Chiapas,29016
-69,AV. JESUS CARRANZA NO. 60,Canteras,Tuxtla Gutierrez,Chiapas,29014
-70,AV. ROBERTYO COLORADO 1350,Capulines 1,Tuxtla Gutierrez,Chiapas,29017
-71,C. ALDAMA NO. 153,Capulines 2,Tuxtla Gutierrez,Chiapas,29017
-72,AV. LIBERTAD NO. 34,Carlos Salinas,Mexicali,Baja California,21137
-73,AV. 20 DE NOVIEMBRE NO. 1020,Casa Hogar CTM,Guadalajara,Jalisco,44219
-74,CAMINO LOMA ALTA NO. 1000,Castillo,Tijuana,Baja California,22050
-75,AV. INDEPENDENCIA NO. 579,Cazadores Juarenses,Juarez,Chihuahua,32110
-76,CALLE 21 DE MARZO NO. 17,Celanese,Toluca,Mexico,50010
-77,CALLE MATAMOROS NO. 2-B,Centro,Culiacan,Sinaloa,80000
-78,INDEPENDENCIA NO. 717,Centro,Juarez,Chihuahua,32000
-79,18 DE MARZO NO. 1111,Centro,Toluca,Mexico,50000
-80,AV. INDEPENDENCIA NO. 1054,Centro Sinaloa,Culiacan,Sinaloa,80000
-81,ALDAMA 19-13,Cerro Grande,Chihuahua,Chihuahua,31054
-82,AV.LIBERTAD NO. 33,Chapultepec,Tijuana,Baja California,22020
-83,AV. INDEPENDENCIA NO. 85,Chapultepec Este,Tijuana,Baja California,22020
-84,CALLE MATAMOROS NO. 237,Chepevera,Monterrey,Nuevo Leon,64030
-85,CALLEJON DE LA NOCHE TRISTE NO.23,Chiapas Solidario,Tuxtla Gutierrez,Chiapas,29018
-86,CALLE OCAMPO NO. 231,Chula Vista,Tijuana,Baja California,22045
-87,OCAMPO NO. 231,Claudia,Chihuahua,Chihuahua,31020
-88,CALLE MORELOS NO. 44,Colinas de Oriente,Tuxtla Gutierrez,Chiapas,29017
-89,AV DANIEL SOTO 738,Colon,Chihuahua,Chihuahua,31000
-90,AV. INDEPENDENCIA NO. 1231 A,Colonia No. 9,Guadalajara,Jalisco,44300
-91,AV. INDEPENDENCIA NO. 562,Coltongo,Azcapotzalco,Distrito Federal,2630
-92,AV. 5 DE MAYO NO. 583,Constituyentes,Mexicali,Baja California,21060
-93,AV. LIBERTAD NO. 56,Consumidor,Juarez,Chihuahua,32140
-94,AV. INDEPENDENCIA NO. 500,Corregidora,Juarez,Chihuahua,32080
-95,AV. INDEPENDENCIA N0.562,Cosalimita,Tabasco,Zacatecas,99630
-96,AV. 20 DE NOVIEMBRE 795,Cosmopolita,Azcapotzalco,Distrito Federal,2670
-97,AV. PRINCIPAL S/N.,CROC 6 Olimpia,Azcapotzalco,Distrito Federal,2109
-98,AV INDEPENDENCIA NO 219,Cuarteles,Chihuahua,Chihuahua,31020
-99,AV. INDEPENDENCIA NO. 740,Cubillas,Tijuana,Baja California,22045
-100,MATAMOROS NO. 327,Cubillas Sur,Tijuana,Baja California,22045
-101,KM.13 CARRET. CD. ALEMAN-TUXTEPEC,Dale,Chihuahua,Chihuahua,31050
-102,AV. INDEPENDENCIA NO. 1639,De la Crespa,Toluca,Mexico,50016
-103,AV.INDEPEND.NO. 1065,Deitz,Guadalajara,Jalisco,44158
-104,BOULEVAR BENITO JUAREZ NO. 197 -A,Del Carmen,Juarez,Chihuahua,32160
-105,INDEPENDENCIA 1519,Del Maestro,Azcapotzalco,Distrito Federal,2040
-106,CALLE MORELOS NO. 24,Del Norte,Juarez,Chihuahua,32030
-107,CALLE MATAMOROS NO. 225,Del Parque,Tabasco,Zacatecas,99630
-108,AV. INDEPENDENCIA NO. 720,Del Rastro,Mexicali,Baja California,21090
-109,AV.INDEPENDENCIA NO. 574,Del Recreo,Azcapotzalco,Distrito Federal,2070
-110,AV. INDEPENDENCIA NO. 565-A,Del Trabajo CTM,Guadalajara,Jalisco,44216
-111,AV. LIBERTAD NO. 956,Deportivo Obispado,Monterrey,Nuevo Leon,64040
-112,AV. LIBERTAD NO. 897,Diego de Montemayor,Monterrey,Nuevo Leon,64103
-113,PRINCIPAL S/N. TEMAZCAL.,Dimenstein,Tijuana,Baja California,22105
-114,HIDALGO NO. 96,Durango,Juarez,Chihuahua,32160
-115,CALLE HIDALGO NO.96,El Bajo,Chihuahua,Chihuahua,31000
-116,AV. INDEPENDENCIA NO. 1457,El Barreal,Juarez,Chihuahua,32040
-117,AV. 5 DE MAYO NO. 551,El Bosque,Tijuana,Baja California,22034
-118,CALLE ALDAMA NO. 99,El Charco,Toluca,Mexico,50019
-119,AV. 20 DE NOVIEMBRE NO. 1121,El Colonial,Mexicali,Baja California,21137
-120,AV. 5 DE MAYO NO. 1953,El Cuarenta y Cinco,Juarez,Coahuila de Zaragoza,25419
-121,CALLE ALDAMA NO.720,El Jaguey,Guadalajara,Jalisco,44249
-122,AV. 18 DE MARZO ESQ. BLVD.M. AVILA CAMACHO NO. 1372,El Jaralillo,Tabasco,Zacatecas,99630
-123,CALLE ALDAMA NO. 144-A,El Magueyito,Tuxtla Gutierrez,Chiapas,29000
-124,BLVD. BENITO JUAREZ NO. 1291,El Mirador,Culiacan,Sinaloa,80017
-125,AV. 20 DE NOVIEMBRE NO. 970-B,El Mirador Centro,Monterrey,Nuevo Leon,64070
-126,CALLE MORELOS NO.426,El Mogote,Toluca,Mexico,50018
-127,PROL. AV. 5 DE MAYO NO. 270,El Pedregal,Tijuana,Baja California,22104
-128,LIBERTAD NO. 2005,El Pedregal Oeste,Tijuana,Baja California,22104
-129,BOULEVAR BGENITO JUAREZ 1291,El Prado,Tijuana,Baja California,22105
-130,20 DE NOVIEMBRE NO. 1081,El Refugio,Tabasco,Zacatecas,99630
-131,AV. 20 DE NOVIEMBRE NO. 1081,El Retiro,Guadalajara,Jalisco,44280
-132,AV. INDEPENDENCIA NO. 574,El Rosario,Azcapotzalco,Distrito Federal,2100
-133,INDEPENDENCIA NO. 605,El Santuario,Guadalajara,Jalisco,44200
-134,AV. INDEPENDENCIA NO 1021,El Tejocote,Toluca,Mexico,50010
-135,HIDALGO NO 689,El Valle,Tuxtla Gutierrez,Chiapas,29010
-136,AV. INDEPENDENCIA NO. 497,El Vidrio,Mexicali,Baja California,21080
-137,AVENIDA 5 DE MAYO NO. 1226,Eligio Esquivel,Mexicali,Baja California,21110
-138,AV INDEPENDENCIA NO. 545-B,Empleados Federales,Tijuana,Baja California,22010
-139,CALLE MATAMOROS NO. 40,Espacios Marsella,Culiacan,Sinaloa,80018
-140,BLVD. MANUEL AVILA CAMACHO 435,Esperanza,Guadalajara,Jalisco,44300
-141,AV. 20 DE NOVIEMBRE NO. 1105 ESQ.OCAMPO,Estadio,Guadalajara,Jalisco,44240
-142,CALLE MATAMOROS NO. 147,Estadio,Guadalajara,Jalisco,44307
-143,AV. INDEPENDENCIA NO. 390 ANTES 396,Estadio Poniente,Guadalajara,Jalisco,44246
-144,AV. 20 DE NOVIEMBRE NO. 1027,Estrada,Tuxtla Gutierrez,Chiapas,29017
-145,AV. INDEPENDENCIA NO.745-BIS,Estrella de Oriente,Tuxtla Gutierrez,Chiapas,29010
-146,AV. JESUS CARRANZA NO. 123,Eugenia,Guadalajara,Jalisco,44267
-147,AV. 20 DE NOV. NO. 1372,Eugenio Garza Sada,Monterrey,Nuevo Leon,64103
-148,AV. 5 DE MAYO NO.1380,Euzkadi,Azcapotzalco,Distrito Federal,2660
-149,AV. INDEPENDENCIA NO.117 ESQ.ARISTA,Exseminario,Monterrey,Nuevo Leon,64049
-150,20 DE NOVIEMBRE 1501,Fabrica de Atemajac,Guadalajara,Jalisco,44218
-151,INDEPENDENCIA 85,Ferrocarril,Mexicali,Baja California,21040
-152,DANIEL SOTO NO.370,Ferrocarrilera,Chihuahua,Chihuahua,31034
-153,AV. INDEPENDENCIA NO. 611,Floresta,Culiacan,Sinaloa,80014
-154,AV. INDEPENDENCIA NO. 413,FOVISSSTE,Mexicali,Baja California,21038
-155,CALLE OCAMPO NO.420,FOVISSSTE Diamante,Culiacan,Sinaloa,80020
-156,PROLONG. INDEPENDENCIA NO. 2237,Francisco R Almada,Chihuahua,Chihuahua,31034
-157,AV. INDEPENDENCIA NO. 718,Francisco Sarabia,Juarez,Chihuahua,32150
-158,AV. 1O. DE MAYO NO. 29,Francisco Villa,Azcapotzalco,Distrito Federal,2420
-159,CALLE ALDAMA NO.233-A,Fresnos,Culiacan,Sinaloa,80010
-160,AV. INDEPENDENCIA NO.147,Fronteriza,Mexicali,Baja California,21110
-161,INDEPENDENCIA NO. 569 B,Fundadores,Tijuana,Baja California,22046
-162,LIBERTAD 56,Gabilondo,Tijuana,Baja California,22044
-163,CALLE MELCHOR OCAMPO NO. 635,Girasoles,Culiacan,Sinaloa,80019
-164,AV. INDEPENDENCIA NO.1004,Gonzalitos,Monterrey,Nuevo Leon,64020
-165,AV. 5 DE MAYO NO. 1637,Gran Morada,Toluca,Mexico,50010
-166,AV. 5 DE MAYO 1634,Grecia,Culiacan,Sinaloa,80015
-167,PONCIANO ARRIAGA NO. 43,Grijalva,Tuxtla Gutierrez,Chiapas,29016
-168,CALLE MATAMOROS NO.29-3,Guadalajara,Tijuana,Baja California,22046
-169,AV. JESUS CARRANZA NO. 1067,Guadalajara Centro,Guadalajara,Jalisco,44100
-170,AV. FERROCARRIL S/N.,Guadalupana Norte,Guadalajara,Jalisco,44220
-171,AV. 5 DE MAYO NO.1544,Guadalupana Sur,Guadalajara,Jalisco,44220
-172,MATAMOROS No. 138,Guadalupe,Toluca,Mexico,50010
-173,AV. 20 DE NOVIEMBRE No. 1037,Guadalupe,Tuxtla Gutierrez,Chiapas,29000
-174,AV. 20 DE NOVIEMBRE NO. 1139-B,Guajardo,Mexicali,Baja California,21050
-175,AV. 20 DE NOVIEMBRE No50221,Guerrero,Tijuana,Baja California,22055
-176,AV. 5 DE MAYO No. 1350,Gustavo Diaz Ordaz,Chihuahua,Chihuahua,31034
-177,AV. INDEPENDENCIA No. 393,Hacienda Alameda,Culiacan,Sinaloa,80019
-178,BULEVAR No810,Hacienda Arboledas,Culiacan,Sinaloa,80019
-179,CALLE SEBASTIAN ORTIZ NO.549,Haciendas Orizaba,Mexicali,Baja California,21135
-180,CALLE MORELOS NO. 30,Herradura,Tijuana,Baja California,22034
-181,CALLE MORELOS NO. 330 INT.2,Herradura Pdu,Chihuahua,Chihuahua,31020
-182,AV 5 DE MAYO 659,Herradura Sur,Tijuana,Baja California,22035
-183,OCAMPO 38,Hidalgo,Juarez,Chiapas,29514
-184,AV. 20 DE NOVIEMBRE NO. 1070,Hidalgo,Tijuana,Baja California,22056
-185,AV. 5 DE MAYO NO. 1401,Huajitlan,Tuxtla Gutierrez,Chiapas,29010
-186,AV. INDEPENDENCIA N0.1166,Huiscolco,Tabasco,Zacatecas,99630
-187,AV. 20 DE NOVIEMBRE NO. 964,Humaya,Culiacan,Sinaloa,80020
-188,AV. 20 DE NOVIEMBRE NO. 933,Ignacio Aldama,Juarez,Chihuahua,32160
-189,AV. INDEPENDENCIA NO. 1811,Ignacio Allende,Culiacan,Sinaloa,80010
-190,CALLE OCAMPO NO.266,Ignacio Altamirano,Monterrey,Nuevo Leon,64103
-191,AV. INDEPENDENCIA NO. 1162,Independencia,Guadalajara,Jalisco,44290
-192,AV. INDEPENDENCIA N0.900,Independencia,Tijuana,Baja California,22055
-193,AV. INDEPENDENCIA NO.900,Industrial,Mexicali,Baja California,21010
-194,CALLE ALDAMA NO.53,Industrial Vallejo,Azcapotzalco,Distrito Federal,2300
-195,20 DE NOVIEMBRE 1371,Insurgentes,Juarez,Chihuahua,32150
-196,AV. 1O. DE MAYO NO. 240,Interlomas,Culiacan,Sinaloa,80016
-197,CALLE HIDALGO NO. 501,Jardines Alcalde,Guadalajara,Jalisco,44298
-198,ALDAMA NO. 720,Jardines del Cerro,Monterrey,Nuevo Leon,64050
-199,20 DE NOVIEMBRE NO 1422,Jardines del Norte,Tuxtla Gutierrez,Chiapas,29019
-200,LIBERTAD NO. 1046,Jardines del Rey,Monterrey,Nuevo Leon,64102
-201,AV. INDEPENDENCIA NO 1023,Kervin,Azcapotzalco,Distrito Federal,2490
-202,AV. LIBERTAD NO. 1046,La Alianza Sector B,Monterrey,Nuevo Leon,64103
-203,AV. 5 DE MAYO NO. 1683,La Alianza Sector C,Monterrey,Nuevo Leon,64103
-204,AV. INDEPENDENCIA NO.587,La Arena,Juarez,Chiapas,29517
-205,INDEPENDENCIA NO. 587,La Cantera,Guadalajara,Jalisco,44306
-206,AV. INDEPENDENCIA NO.677,La Capilla,Tabasco,Zacatecas,99630
-207,MATAMOROS 2,La Condesa,Tuxtla Gutierrez,Chiapas,29018
-208,BLVD. FRANCISCO FERNANDEZ ARTEAGA NO.1984,La Conquista,Juarez,Chihuahua,32107
-209,BLVD. BENITO JUAREZ ESQ. IGNACIO MATIAS S/N.,La Cruz Comalco,Toluca,Mexico,50010
-210,BULEVAR BENITO JUAREZ ESQUINA I. MATIAS S/N,La Federacha,Guadalajara,Jalisco,44300
-211,C. BENITO JUAREZ NO. 72,La Finca,Monterrey,Nuevo Leon,64000
-212,AV. INDEPENDENCIA NO. 684 ALTOS,La Joya,Chihuahua,Chihuahua,31060
-213,AV. 20 DE NOVIEMBRE ESQ.EMILIANO ZAPATA S/N,La Joya,Guadalajara,Jalisco,44300
-214,AV. LIBERTAD NO. 1207,La Libertad,Juarez,Chiapas,29516
-215,AV. 5 DE MAYO NO. 660,La Loma,Toluca,Mexico,50010
-216,AV. ALFONSO CASO NO. 15,La Luna,Mexicali,Baja California,21138
-217,CALLE ALDAMA NO.70,La Magdalena,Toluca,Mexico,50010
-218,KM 1 CARRETERA A TUXTEPEC PTE EL CARACOL,La Mesa Sur,Tijuana,Baja California,22105
-219,CALLE ARTEAGA NO. 1027,La Mesita,Juarez,Chihuahua,32100
-220,INDEPENDENCIA NO. 1420,La Minita,Chihuahua,Chihuahua,31060
-221,AV. 20 DE NOVIEMBRE NO. 1960,La Normal,Guadalajara,Jalisco,44260
-222,AV. 20 DE NOVIEMBRE 813,La Preciosa,Azcapotzalco,Distrito Federal,2460
-223,SIN CALLE Y SIN NUMERO,La Remosa,Tijuana,Baja California,22030
-224,INDEPENDENCIA 623,La Retama,Toluca,Mexico,50040
-225,MATAMOROS NO. 225,La Teresona,Toluca,Mexico,50040
-226,KM.5 CARRET.TUX-PTE. CARACOL,La Vega,Toluca,Mexico,50039
-227,AV. 5 DE MAYO NO. 1906,La Victoria,Tuxtla Gutierrez,Chiapas,29010
-228,INDEPENDENCIA NO. 377,Lafayette,Guadalajara,Jalisco,44150
-229,AV. INDEPENDENCIA NO. 584,Las Brisas,Toluca,Mexico,50017
-230,AV. INDEPENDENCIA S/N.,Las Canteras,Tuxtla Gutierrez,Chiapas,29014
-231,AV. INDEPENDENCIA NO.908,Las Cucas,Culiacan,Sinaloa,80018
-232,AV. INDEPENDENCIA NO 511 A,Las Delicias,Tuxtla Gutierrez,Chiapas,29010
-233,20 DE NOVIEMBRE 1041,Las Estaciones,Monterrey,Nuevo Leon,64102
-234,JESUS CARRANZA 991,Las Flores,Toluca,Mexico,50018
-235,KM 3.5 CARRETERA TUXTEPEC CD. ALEMAN,Las Glorias,Culiacan,Sinaloa,80014
-236,KM.3.5 CARRET.FED. TUX-CD. ALEMAN,Las Huertas,Chihuahua,Chihuahua,31020
-237,AV 3 ESQUINA CALLE 2,Las Lajas,Tuxtla Gutierrez,Chiapas,29017
-238,GUERRERO ESC MURO,Las Lilas,Tijuana,Baja California,22105
-239,AV. 20 DE NOVIEMBRE NO 1225,Las Magdalenas,Mexicali,Baja California,21135
-240,INDEPENDENCIA 1683,Las Palmeras,Mexicali,Baja California,21135
-241,AV. 20 DE NOVIEMBRE NO.1041,Las Plazas,Monterrey,Nuevo Leon,64102
-242,LAZARO CARDENAS NO.195,Las Salinas,Azcapotzalco,Distrito Federal,2360
-243,AV. 5 DE MAYO NO. 357,Las Torres,Monterrey,Nuevo Leon,64103
-244,AV. INDEPENDENCIA NO. 427,Las Trancas,Azcapotzalco,Distrito Federal,2450
-245,INDEPENDENCIA NO. 427,Las Vencedoras,Chihuahua,Chihuahua,31054
-246,CARR. A OJITALN NO 951-A,Lealtad I,Chihuahua,Chihuahua,31060
-247,AV. 5 DE MAYO NO 1189,Leyes de Reforma,Juarez,Chihuahua,32090
-248,BLVD. BENITO JUAREZ NO 439 B,Libertad,Azcapotzalco,Distrito Federal,2050
-249,AV. 20 DE NOVIEMBRE No. 1950,Libertad,Mexicali,Baja California,21030
-250,AV. INDEPENDENCIA NO. 395,Linda Vista,Tabasco,Zacatecas,99630
-251,BENITO JUAREZ NO 568,Linda Vista,Tijuana,Baja California,22054
-252,AV.INDEPENDENCIA NO. 246,Linda Vista Shanka,Tuxtla Gutierrez,Chiapas,29016
-253,FRANCISCO I. MADERO NO. 182,Linss,Chihuahua,Chihuahua,31020
-254,AV. JESUS CARRANZA NO.73,Loma Alta,Chihuahua,Chihuahua,31054
-255,AV. 5 DE MAYO NO. 1230-B,Loma de Rodriguera,Culiacan,Sinaloa,80019
-256,AV. INDEPENDENCIA No.528,Loma Real,Tuxtla Gutierrez,Chiapas,29014
-257,AV. JESUS CARRANZA NO.765,Lomas,Monterrey,Nuevo Leon,64030
-258,AV. INDEPENDENCIA NO. 47,Lomas de Tamazula,Culiacan,Sinaloa,80014
-259,AV. INDEPENDENCIA NO. 701,Lomas Del Pedregal,Culiacan,Sinaloa,80016
-260,AV.INDEPENDENCIA NO 623,Lomas del Poleo,Juarez,Chihuahua,32107
-261,CALLE MORELOS NO.72,Lomas del Sol,Culiacan,Sinaloa,80016
-262,AV. INDEPENDENCIA NO. 666,Lomas del Valle,Tuxtla Gutierrez,Chiapas,29010
-263,CALLE ITURBIDE NO. 52,Los Alamitos,Culiacan,Sinaloa,80018
-264,AV. REFORMA NO.587,Los Angeles,Culiacan,Sinaloa,80014
-265,AV. INDEPENDENCIA NO. 1029,Los Arcos,Mexicali,Baja California,21079
-266,CALLE MATAMOROS NO. 78,Los Capulines III,Tuxtla Gutierrez,Chiapas,29017
-267,CALLE MATAMOROS NO. 11,Los Ciruelos,Culiacan,Sinaloa,80019
-268,AV. INDEPENDENCIA NO. 377,Los Faisanes,Mexicali,Baja California,21135
-269,AV. 20 DE NOVIEMBRE NO.772,Los Frailes,Toluca,Mexico,50020
-270,AV. INDEPENDENCIA NO. 374,Los Girasoles,Toluca,Mexico,50010
-271,AV. INDEPENDENCIA NO. 727,Los Girasoles I,Toluca,Mexico,50010
-272,20 DE NOVIEMBRE NO. 1858,Los Girasoles II,Toluca,Mexico,50010
-273,PROLONG.INDEPENDENCIA NO.468-B,Los Girasoles III,Toluca,Mexico,50010
-274,CARR.OJITLAN NO.43,Los Girasoles IV,Toluca,Mexico,50010
-275,CALLE GUERRERO ESQ. MURO BLVD.,Los Huertos,Culiacan,Sinaloa,80019
-276,AV 5 DE MAYO NO. 1006,Los Manguitos,Tuxtla Gutierrez,Chiapas,29010
-277,MATAMOROS 127,Los Mezcales,Culiacan,Sinaloa,80019
-278,AV. INDEPENDENCIA NO. 21,Los Milagros,Mexicali,Baja California,21138
-279,AV. INDEPENDENCIA 666,Los Olivos,Mexicali,Baja California,21135
-280,BLVD.BENITO JUAREZ NO. 42-C,Los Oyameles,Azcapotzalco,Distrito Federal,2100
-281,DOMICILIO CONOCIDO S/N.,Los Reyes,Azcapotzalco,Distrito Federal,2010
-282,DOMICILIO CONOCIDO KM.21,Los Santos,Tijuana,Baja California,22104
-283,AV. INDEPENDENCIA NO. 568,Lucerna,Mexicali,Baja California,21137
-284,11 PONIENTE S/N.,Madera 65,Chihuahua,Chihuahua,31060
-285,JESUS CARRANZA NO. 139,Madero (Cacho),Tijuana,Baja California,22040
-286,AV. 5 DE MAYO NO. 1259,Madero Sur,Tijuana,Baja California,22046
-287,AV. 5 DE MAYO 1281,Magisterial,Tabasco,Zacatecas,99630
-288,AV. 20 DE NOVIEMBRE NO.1636,Magisterio 2000,Tuxtla Gutierrez,Chiapas,29010
-289,AV. MANCILLA ESQ. ALDAMA S/N.,Maralago,Culiacan,Sinaloa,80014
-290,INDEPENDENCIA NO. 241,Maria Luisa,Monterrey,Nuevo Leon,64040
-291,KM.2 CARR.FEDERAL TUX-OAXACA.,Maya,Tuxtla Gutierrez,Chiapas,29010
-292,KM. 13 CARR. MIGUEL ALEMÌN,Mayos,Mexicali,Baja California,21137
-293,AV. INDEPENDENCIA NO. 643 (425),Melchor Ocampo,Chihuahua,Chihuahua,31050
-294,C. ZARAGOZA NO. 329,Mexicaltzingo,Guadalajara,Jalisco,44180
-295,C. MARINA HERNANDEZ N. 5,Mezquitan,Guadalajara,Jalisco,44260
-296,AV. INDEPENDENCIA N0.405,Mezquitan Country,Guadalajara,Jalisco,44260
-297,AV. INDEPENDENCIA NO. 405,Miguel Galindo,Guadalajara,Jalisco,44260
-298,INDEPENDENCIA 824,Miguel Hidalgo,Azcapotzalco,Distrito Federal,2450
-299,AV INDEPENDENCIA NO 1189,Miraflores,Guadalajara,Jalisco,44270
-300,PRIMERO DE MAYO NO 48 ALTOS,Mirasol,Monterrey,Nuevo Leon,64102
-301,CALLE ALDAMA NO 64,Misol-ha,Tuxtla Gutierrez,Chiapas,29010
-302,PONCIANO ARRIAGA NO 45,Mitras Sur,Monterrey,Nuevo Leon,64020
-303,AV. INDEPENDENCIA NO 1683,Moderna,Guadalajara,Jalisco,44190
-304,C 1O DE MAYO NO 4,Monasterios,Tabasco,Zacatecas,99630
-305,DANIEL SOTO NO 354,Monte Alto,Azcapotzalco,Distrito Federal,2640
-306,AV. INDEPENDENCIA NO 117,Monterrey,Juarez,Chihuahua,32070
-307,AV. JESUS CARRANZA NO 1651 ALTOS,Monterrey,Tijuana,Baja California,22046
-308,MARIANO ARISTA NO 454,Monterrey Centro,Monterrey,Nuevo Leon,64000
-309,BOULEVARD BENITO JUAREZ ESQ. INDEPENDENCIA,Montesierra,Culiacan,Sinaloa,80017
-310,INDEPENDENCIA NO 124,Monumental,Guadalajara,Jalisco,44320
-311,AV. INDEPENDENCIA NO. 608,Monumento,Juarez,Chihuahua,32020
-312,INDEPENDENCIA No 1655,Morelos,Juarez,Chiapas,29510
-313,AV. 5 DE MAYO NO 1850,Morelos,Tijuana,Baja California,22056
-314,AV. 5 DE MAYO NO 1014,Morelos,Tuxtla Gutierrez,Chiapas,29010
-315,AV. 5 DE MAYO No. 1763,Moreno,Tijuana,Baja California,22105
-316,CALLE OCAMPO NO.,Nacozari,Mexicali,Baja California,21030
-317,AV. 20 DE NOVIEMBRE ESZ SANTOS,Natalia Venegas,Tuxtla Gutierrez,Chiapas,29017
-318,AV. 20 DE NOVIEMBRE ESQ. SANTOS DEGOLLADO,Neidhart,Tijuana,Baja California,22020
-319,AV. INDEPENDENCIA N0.691,Nextengo,Azcapotzalco,Distrito Federal,2070
-320,NICOLAS BRAVO NO 1270,Nueva,Mexicali,Baja California,21100
-321,AV. 20 DE NOVIEMBRE ESQ. MATAMOROS,Nueva Delicias,Tuxtla Gutierrez,Chiapas,29010
-322,MATAMOROS NO. 325,Nueva El Rosario,Azcapotzalco,Distrito Federal,2128
-323,AV. INDEPENDENCIA NO. 1001,Nueva Esperanza,Mexicali,Baja California,21050
-324,PLAN DE AYALA S/N.,Nueva Estrella,Tuxtla Gutierrez,Chiapas,29010
-325,MATAMOROS NO 360,Nueva Galaxia,Culiacan,Sinaloa,80014
-326,AV. INDEPENDENCIA NO 1247,Nueva Reforma,Tuxtla Gutierrez,Chiapas,29010
-327,AV. 5 DE MAYO NO 1911,Nuevo Mundo,Juarez,Chiapas,29518
-328,AV. LIBERTAD NO 387 ESQ. MORELOS,Nuevo Progreso,Juarez,Chiapas,29510
-329,AV. 5 DE MAYO NO. 1400,Nuevo Sur,Guadalajara,Jalisco,44240
-330,MIGUEL HIDALGO NO 409,Obispado,Monterrey,Nuevo Leon,64060
-331,AV.INDEPENDENCIA NO 672,Obrera,Juarez,Chihuahua,32050
-332,CALLE SEBASTIAN ORTIZ NO 690,Obrera,Monterrey,Nuevo Leon,64010
-333,PROL. AV 5 DE MAYO NO 109,Obrera Centro,Guadalajara,Jalisco,44140
-334,AV. INDEPENDENCIA NO 531,Obrero Campesino,Culiacan,Sinaloa,80013
-335,LIBERTAD 1024,Observatorio,Guadalajara,Jalisco,44266
-336,KM. 2 CARRETERA TUXTEPEC OAXACA,Orizaba,Mexicali,Baja California,21130
-337,AVENIDA 3 CALLE 2,Pablo Amaya Norte,Chihuahua,Chihuahua,31050
-338,BLVD. BENITO JUAREZ NO 409,Pablo Amaya Sur,Chihuahua,Chihuahua,31050
-339,AV. INDEPENDENCIA NO 1125,Pacifico,Chihuahua,Chihuahua,31030
-340,AV. INDEPENDENCIA NO 171,Palestina,Azcapotzalco,Distrito Federal,2070
-341,AV. 5 DE MAYO NO.801,Palestina,Juarez,Chiapas,29510
-342,AV. INDEPENDENCIA NO.166,Palmar de Orizaba,Mexicali,Baja California,21135
-343,AV. INDEPENDENCIA NO.725,Pantaco,Azcapotzalco,Distrito Federal,2510
-344,CENTRO PINERO,Parque Rotario,Chihuahua,Chihuahua,31000
-345,AV. INDEPENDENCIA NO 1950,Partido Romero,Juarez,Chihuahua,32030
-346,ADOLFO LOPEZ MATEOS NO 25,Paseo Alameda,Culiacan,Sinaloa,80019
-347,HERMENEGILDO GALEANA S/N,Pasteros,Azcapotzalco,Distrito Federal,2150
-348,AV. 5 DE MAYO NO 954,Periodistas,Monterrey,Nuevo Leon,64103
-349,INT. PASAJE COMERCIAL LOCAL No. 4 ,Petrolera,Azcapotzalco,Distrito Federal,2480
-350,INDEPENDENCIA NO 6,Pistimbak,Tuxtla Gutierrez,Chiapas,29018
-351,MATAMOROS 40,Pitolaca,Azcapotzalco,Distrito Federal,2260
-352,INDEPENDENCIA 432,Planetario,Tijuana,Baja California,22034
-353,AV. INDEPENDENCIA NO.932,Pomarrosa,Tuxtla Gutierrez,Chiapas,29014
-354,BLVD.BENITO JUAREZ NO.786,Popular,Juarez,Chihuahua,32110
-355,AV. LIBERTAD NO 1294,Postal,Juarez,Chihuahua,32140
-356,AV. 20 DE NOVIEMBRE NO. 1371,Potinaspak,Tuxtla Gutierrez,Chiapas,29018
-357,KM.13 CARRET.CD. ALEMAN-TUXTEPEC,Prados del Rosario,Azcapotzalco,Distrito Federal,2410
-358,BENITO JUAREZ 25,Presidente Madero,Azcapotzalco,Distrito Federal,2430
-359,AV. 1O. DE MAYO NO. 102,Presita Magueyosa,Juarez,Coahuila de Zaragoza,25402
-360,AV. 1O. DE MAYO NO. 108,Privada Catalana,Tijuana,Baja California,22025
-361,AV. 20 DE NOVIEMBRE NO. 1210,Privadas de Lincoln,Monterrey,Nuevo Leon,64100
-362,BENITO JUAREZ NO 25,Pro-Hogar,Azcapotzalco,Distrito Federal,2600
-363,MATAMOROS 29,Providencia,Azcapotzalco,Distrito Federal,2440
-364,AV. LIBERTAD NO. 1961,Pueblo Bonito,Culiacan,Sinaloa,80020
-365,CALLE MATAMOROS NO. 236,Pueblo Bonito,Tijuana,Baja California,22034
-366,AV. INDEPENDENCIA 1019,Pueblo Nuevo,Mexicali,Baja California,21120
-367,AV. 5 DE MAYO NO. 1690,Puerta de Hierro,Tijuana,Baja California,22024
-368,ALDAMA 50,Puerta del Sol,Chihuahua,Chihuahua,31060
-369,MATAMOROS 123,Puerto de Anapra,Juarez,Chihuahua,32107
-370,CALLE MATAMOROS NO. 123,Puerto la Paz,Juarez,Chihuahua,32159
-371,AV. INDEPENDENCIA NO.864,Rachali,Chihuahua,Chihuahua,31060
-372,AV. 5 DE MAYO NO.1987,Rancho Anapra,Juarez,Chihuahua,32107
-373,AV. INDEPENDENCIA NO. 1370-B,Rancho el Grande,Tijuana,Baja California,22025
-374,AV. 20 DE NOVIEMBRE NO.1022,Rancho la Mora,Toluca,Mexico,50020
-375,LIBERTAD ESQ. MORELOS 834,Reforma,Chihuahua,Chihuahua,31034
-376,BLVD. BENITO JUAREZ NO. 197-A,Residencial Zarco,Chihuahua,Chihuahua,31020
-377,AV. 5 DE MAYO NO. 954,Reynosa Tamaulipas,Azcapotzalco,Distrito Federal,2200
-378,CALLE MATAMOROS NO. 31,Rinconada el Olivar,Azcapotzalco,Distrito Federal,2400
-379,OAXACA S/N,Roma,Tijuana,Baja California,22054
-380,AV. SEBASTIAN ORTIZ NO.229,Rosario,Chihuahua,Chihuahua,31030
-381,AV. 5 DE MAYO ESQ. ALDAMA No. 991,Rosario Poniente,Tuxtla Gutierrez,Chiapas,29014
-382,CALLE LAZARO CARDENAS S/N.,Rosario Uzarraga,Culiacan,Sinaloa,80014
-383,AV. 20 DE NOVIEMBRE NO.2244,Rosendo Salazar,Azcapotzalco,Distrito Federal,2409
-384,CALLE JUAREZ NO. 855,Rotarismo,Culiacan,Sinaloa,80019
-385,AV. 5 DE MAYO NO. 631,Ruben Jaramillo,Culiacan,Sinaloa,80015
-386,AV. 5 DE MAYO ESQ. MATAMOROS NO 1070,Rubio,Chihuahua,Chihuahua,31020
-387,AV. INDEPENDENCIA NO.787,Sagrada Familia,Guadalajara,Jalisco,44200
-388,INDEPENDENCIA 807,San Agustin,Chihuahua,Chihuahua,31054
-389,AV. INDEPENDENCIA NO. 409,San Angelin,Toluca,Mexico,50010
-390,INDEPENDENCIA NO. 409,San Antonio,Guadalajara,Jalisco,44170
-391,CALLE MATAMOROS NO. 415,San Antonio,Guadalajara,Jalisco,44257
-392,AV. 5 DE MAYO NO. 2061 ESQ. BLVD.BENITO JUAREZ,San Antonio,Toluca,Mexico,50018
-393,AV. JESUS CARRANZA NO. 812,San Antonio (P-37),Monterrey,Nuevo Leon,64103
-394,C. GUADALUPE VICTORIA N0.373,San Bernabe,Monterrey,Nuevo Leon,64100
-395,C. GUADALUPE VICTORIA NO 373,San Bernardo,Guadalajara,Jalisco,44260
-396,AV. JESUS CARRANZA ,San Borja,Juarez,Chihuahua,32020
-397,AV. INDEPENDENCIA ,San Clemente,Mexicali,Baja California,21138
-398,BLVD. BENITO JUAREZ ESQ. AV. INDEPENDENCIA,San David I (P- 33),Monterrey,Nuevo Leon,64103
-399,IGNACIO ZARAGOZA ,San Fernando,Chihuahua,Chihuahua,31060
-400,MIGUEL HIDALGO ,San Fernando,Tuxtla Gutierrez,Chiapas,29010
-401,BLVD. BENITO JUAREZ ,San Francisco,Tabasco,Zacatecas,99644
-402,AV. 20 DE NOVIEMBRE NO 1371,San Gabriel,Monterrey,Nuevo Leon,64103
-403,AV. 20 DE NOVIEMBRE ,San Isidro (P-108),Monterrey,Nuevo Leon,64103
-404,AV. 5 DE MAYO,San Jacinto,Mexicali,Baja California,21138
-405,CALLE PRINCIPAL S/N.,San Jacinto,Tuxtla Gutierrez,Chiapas,29000
-406,AV. INDEPENDENCIA  ANTS.998,San Jorge,Chihuahua,Chihuahua,31054
-407,CALLE SEBASTIAN ORTIZ ,San Juan,Chihuahua,Chihuahua,31054
-408,CARR. A OJITLAN ,San Juan de la Cruz,Toluca,Mexico,50010
-409,CALLE OCAMPO S/M.,San Juan Tlihuaca,Azcapotzalco,Distrito Federal,2400
-410,AV. INDENDENCIA ,San Juanito,Juarez,Chiapas,29510
-411,AV. 5 DE MAYO ,San Luis Obispo,Toluca,Mexico,50040
-412,ALDAMA ESQ. 20 DE NOVIEMBRE,San Marcos,Azcapotzalco,Distrito Federal,2020
-413,AV. MANCILLA ESQ. ALDAMA S/N,San Marcos,Mexicali,Baja California,21050
-414,C. ALDAMA ,San Marcos Oriente,Guadalajara,Jalisco,44330
-415,PROL. AV. 5 DE MAYO,San Mateo,Azcapotzalco,Distrito Federal,2490
-416,KM. 2 CARRETERA TUXTEPEC- VALLE NACIONAL,San Miguel,Chihuahua,Chihuahua,31060
-417,ARTEAGA ,San Miguel,Mexicali,Baja California,21137
-418,BLVD. BENITO JUAREZ ESQ. AV. 5 DE MAYO ,San Pablo Xalpa,Azcapotzalco,Distrito Federal,2110
-419,MATAMOROS ,San Pedro,Chihuahua,Chihuahua,31000
-420,INDEPENDENCIA,San Rafael,Azcapotzalco,Distrito Federal,2010
-421,ALDAMA ,San Rafael,Chihuahua,Chihuahua,31060
-422,,San Rafael,Toluca,Mexico,50019
-423,,Santa Catarina,Azcapotzalco,Distrito Federal,2250
-424,,Santa Clara,Mexicali,Baja California,21110
-425,,Santa Clara,Tuxtla Gutierrez,Chiapas,29014
-426,,Santa Cruz,Juarez,Chiapas,29518
-427,,Santa Cruz,Tijuana,Baja California,22105
-428,,Santa Elena Estadio,Guadalajara,Jalisco,44230
-429,,Santa Rita,Chihuahua,Chihuahua,31020
-430,,Santa Rita,Juarez,Coahuila de Zaragoza,25419
-431,,Santa Rosa,Chihuahua,Chihuahua,31050
-432,,Santiago,Tabasco,Zacatecas,99650
-433,,Santiago Miltepec,Toluca,Mexico,50020
-434,,Santo Domingo,Azcapotzalco,Distrito Federal,2160
-435,,Santo Domingo,Tuxtla Gutierrez,Chiapas,29000
-436,,Sara Lugo,Juarez,Chihuahua,32108
-437,,Sector Naval,Azcapotzalco,Distrito Federal,2080
-438,,Sector Popular,Toluca,Mexico,50040
-439,,Sector Salud,Chihuahua,Chihuahua,31020
-440,,Secundaria,Tabasco,Zacatecas,99630
-441,,Siglo XXI,Juarez,Chihuahua,32153
-442,,Sindicalista,Mexicali,Baja California,21135
-443,,Sol del Amanecer,Mexicali,Baja California,21135
-444,,Solidaridad,Culiacan,Sinaloa,80015
-445,,Tabasco,Tabasco,Zacatecas,99630
-446,,Tecpate Abajo,Juarez,Chiapas,29519
-447,,Tecpate Arriba,Juarez,Chiapas,29519
-448,,Telegrafistas,Juarez,Chihuahua,32140
-449,,Tenanguillo,Tabasco,Zacatecas,99630
-450,,Tezozomoc,Azcapotzalco,Distrito Federal,2459
-451,,Ticoman,Azcapotzalco,Distrito Federal,2240
-452,,Tierra Nueva,Azcapotzalco,Distrito Federal,2130
-453,,Tlacopa,Toluca,Mexico,50010
-454,,Toribio Ortega,Chihuahua,Chihuahua,31060
-455,,Unidad Aldama,Monterrey,Nuevo Leon,64040
-456,,Unidad Cuitlahuac,Azcapotzalco,Distrito Federal,2500
-457,,Unidad Proletaria,Chihuahua,Chihuahua,31054
-458,,Universidad,Guadalajara,Jalisco,44214
-459,,Universidad,Toluca,Mexico,50010
-460,,Universitaria,Culiacan,Sinaloa,80013
-461,,Urbi Villa Bonita,Monterrey,Nuevo Leon,64102
-462,,Urbi Villa Colonial,Monterrey,Nuevo Leon,64103
-463,,Urbi Villa del Rey,Monterrey,Nuevo Leon,64102
-464,,Vallarta Poniente,Guadalajara,Jalisco,44110
-465,,Valle del Agua,Culiacan,Sinaloa,80014
-466,,Valle Dorado,Tuxtla Gutierrez,Chiapas,29014
-467,,Valle Escondido,Chihuahua,Chihuahua,31054
-468,,Venustiano Carranza,Monterrey,Nuevo Leon,64103
-469,,Vida Mejor,Juarez,Chiapas,29510
-470,,Villa del Campo,Mexicali,Baja California,21137
-471,,Villa Del Sol,Culiacan,Sinaloa,80015
-472,,Villa Dolores,Chihuahua,Chihuahua,31054
-473,,Villa Lomas,Tijuana,Baja California,22034
-474,,Villa San Marcos,Tuxtla Gutierrez,Chiapas,29010
-475,,Villa Universidad,Culiacan,Sinaloa,80010
-476,,Villareal,Tuxtla Gutierrez,Chiapas,29014
-477,,Villas Coahuila,Mexicali,Baja California,21137
-478,,Villas de San Juan,Guadalajara,Jalisco,44299
-479,,Villas del Carmen,Monterrey,Nuevo Leon,64103
-480,,Villas Del Estadio,Guadalajara,Jalisco,44240
-481,,Villas del Sur,Chihuahua,Chihuahua,31054
-482,,Villas Galicia,Mexicali,Baja California,21137
-483,,Vista Dorada,Tijuana,Baja California,22034
-484,,Wake,Azcapotzalco,Distrito Federal,2050
-485,,Yuquis,Tuxtla Gutierrez,Chiapas,29016
-486,,Zacatecas,Juarez,Chihuahua,32130
-487,,Zacatecas,Mexicali,Baja California,21070
-488,,Zacatecas,Mexicali,Baja California,21090
-489,,Zarco,Chihuahua,Chihuahua,31020
-490,,Zona Centro,Chihuahua,Chihuahua,31000
-491,,Zona Centro,Tijuana,Baja California,22000
-492,,Zona Dorada,Culiacan,Sinaloa,80014
-493,,Zona Dorada II,Culiacan,Sinaloa,80014
-494,,Zona Este,Tijuana,Baja California,22000
-495,,Zona Industrial,Mexicali,Baja California,21010
-496,,Zona Industrial,Mexicali,Baja California,21070
-497,,Zona Industrial,Mexicali,Baja California,21090
-498,,Zona Norte,Tijuana,Baja California,22000
-499,,Zopilocalco Norte,Toluca,Mexico,50050
-500,,Zopilocalco Sur,Toluca,Mexico,50050
+Calle y Numero,Colonia,Municipio/Ciudad,Estado,CP,Id_clientes
+CALLE AGUSTIN LARA NO. 69-B,12 de Noviembre,Tuxtla Gutierrez,Chiapas,29016,1
+AV. INDEPENDENCIA NO. 241,15 de Enero,Chihuahua,Chihuahua,31063,2
+AV. INDEPENDENCIA NO. 779,16 de Septiembre,Culiacan,Sinaloa,80016,3
+AV. 20 DE NOVIEMBRE NO.1024,20 de Noviembre,Tijuana,Baja California,22100,4
+CARRETERA A LOMA ALTA S/N.,3 Caminos,Toluca,Mexico,50020,5
+AV. 20 DE NOVIEMBRE NO. 1060,6 de Enero,Culiacan,Sinaloa,80010,6
+CALLE ZARAGOZA NO. 1010,Adelitas I,Chihuahua,Chihuahua,31054,7
+CALLE MATAMOROS NO. 310,Adonahi,Tuxtla Gutierrez,Chiapas,29016,8
+AV. 20 DE NOVIEMBRE NO.859-B,Agrarista Mexicana,Culiacan,Sinaloa,80014,9
+AV. 20 DE NOVIEMBRE NO 1053,Agua Azul,Tuxtla Gutierrez,Chiapas,29010,10
+BLVD. BENITO JUAREZ NO. 1466-A,Agua Caliente,Tijuana,Baja California,22024,11
+CALLE MATAMOROS NO.280,Agualeguas,Mexicali,Baja California,21090,12
+AV. INDEPENDENCIA NO. 545,Alameda,Culiacan,Sinaloa,80019,13
+AV. INDEPENDENCIA NO. 1282-A,Albania Alta,Tuxtla Gutierrez,Chiapas,29010,14
+CALLE MATAMOROS NO. 127,Albania Baja,Tuxtla Gutierrez,Chiapas,29010,15
+AV.INDEPENDENCIA NO.1010,Allende,Juarez,Chiapas,29515,16
+AV. 5 DE MAYO NO. 1652,Altamira,Tijuana,Baja California,22054,17
+AV. 5 DE MAYO NO. 1108,Altamira Sur,Tijuana,Baja California,22055,18
+AV. INDEPENDENCIA NO. 748,Altavista,Juarez,Chihuahua,32120,19
+AV. INDEPENDENCIA NO. 985-A,Amarantos,Tuxtla Gutierrez,Chiapas,29010,20
+BLVD. BENITO JUAREZ S / N,Americana,Guadalajara,Jalisco,44160,21
+MATAMOROS NO 149,Amorada,Culiacan,Sinaloa,80014,22
+AV. 5 DE MAYO NO 1100-A,Amway,Monterrey,Nuevo Leon,64004,23
+AV. 20 DE NOVIEMBRE NO 1540,Arboledas,Culiacan,Sinaloa,80010,24
+AV. 5 DE MAYO NO 1253,Arboledas,Tabasco,Zacatecas,99630,25
+CALLE OCAMPO NO 14,Arcos,Guadalajara,Jalisco,44130,26
+BLVD. BENITO JUAREZ ESQ. 20 DE NOVIEMBRE S/N,Arcos del Sol Elite,Monterrey,Nuevo Leon,64102,27
+CALLE ALDAMA NO 156,Arcos Vallarta,Guadalajara,Jalisco,44130,28
+AV. INDEPENDENCIA NO 145,Arroyo Colorado,Juarez,Chihuahua,32140,29
+AV. 20 DE NOVIEMBRE NO 1046,Artesanos,Guadalajara,Jalisco,44200,30
+CALLE IGNACIO RAYON NO.949,Autocinema,Guadalajara,Jalisco,44230,31
+CALLE IGNACIO RAYON NO.934,Axolahua,Azcapotzalco,Distrito Federal,2460,32
+AV. 20 DE NOV. NO. 881 ESQ. ALDAMA,Azcapotzalco,Azcapotzalco,Distrito Federal,2070,33
+AV. 20 DE NOVIEMBRE NO. 1178,Azcona,Tijuana,Baja California,22055,34
+AV. 5 DE MAYO NO. 1226,Aztecas,Mexicali,Baja California,21137,35
+AV. INDEPENDENCIA S/N EXT. DEL MERCADO CENTRAL ESQ. BENITO JUAREZ,Baja California,Mexicali,Baja California,21130,36
+MATAMOROS NO 85 ESQ. 20 DE NOVIEMBRE,Balbuena,Mexicali,Baja California,21070,37
+AV. 20 DE NOVIEMBRE NO 1320,Balconcitos,Tabasco,Zacatecas,99630,38
+CALLE OCAMPO NO. 254,Barrera,Guadalajara,Jalisco,44150,39
+AV.INDEPENDENCIA NO. 678,Barrio Acero,Monterrey,Nuevo Leon,64102,40
+AV. INDEPENDENCIA N0.677,Barrio Alameda,Monterrey,Nuevo Leon,64102,41
+CALLE MORELOS NO. 72-B,Barrio Alto,Juarez,Chihuahua,32160,42
+CALLE ALDAMA NO.50,Barrio de Londres,Chihuahua,Chihuahua,31060,43
+CALLE IGNACIO MATIAS NO.6,Barrio del Parque,Monterrey,Nuevo Leon,64102,44
+AV. INDEPENDENCIA NO. 670,Barrio del Prado,Monterrey,Nuevo Leon,64102,45
+PROL.5 DE MAYO NO.786,Barrio Margaritas,Monterrey,Nuevo Leon,64102,46
+AV. LIBERTAD NO. 495,Barrio Mezquitan,Guadalajara,Jalisco,44260,47
+AV. 5 NO. 1186 A,Barrio Mirasol II,Monterrey,Nuevo Leon,64102,48
+AV. 5 NO.1186-A,Barrio Moderna,Monterrey,Nuevo Leon,64102,49
+AV. 20 DE NOVIEMBRE ESQ. JUAREZ,Barrio San Carlos,Monterrey,Nuevo Leon,64102,50
+AV. INDEPENDENCIA N0.670,Barrio San Jose,Tabasco,Zacatecas,99630,51
+CALLE BENITO JUAREZ NO.495,Barrio San Luis,Monterrey,Nuevo Leon,64102,52
+20 DE NOVIEMBRE NO. 955,Barrio San Pedro,Monterrey,Nuevo Leon,64102,53
+AV. INDEPENDENCIA 918,Barrio Santa Isabel,Monterrey,Nuevo Leon,64102,54
+AV INDEPENDENCIA 565-A,Barrio Topo Chico,Monterrey,Nuevo Leon,64102,55
+CALLE MATAMOROS NO. 325,Bella Vista,Juarez,Chihuahua,32130,56
+CALLE RIVA PALACIOS NO. 465,Bellavista,Chihuahua,Chihuahua,31050,57
+AV. 20 DE NOVIEMBRE NO. 1291,Bosques de la Mora,Toluca,Mexico,50020,58
+5 DE MAYO 1038,Buena Vista,Culiacan,Sinaloa,80014,59
+INDEPENDENCIA 748,Buena Vista,Culiacan,Sinaloa,80016,60
+AV. 20 DE NOVIEMBRE NO. 963,Bugambilias,Juarez,Chihuahua,32040,61
+AV. 20 DE NOVIEMBRE NO.1896,Cachanilla,Mexicali,Baja California,21137,62
+5 DE MAYO 1660,Calafia,Mexicali,Baja California,21040,63
+20 DE NOVIEMBRE ESQ JUAREZ,Calete,Tijuana,Baja California,22044,64
+AV. JESUS CARRANZA NO. 991,Caliss,Mexicali,Baja California,21010,65
+OCAMPO 254-B,Campestre,Culiacan,Sinaloa,80015,66
+AV. INDEPENDENCIA NO. 240,Campo de Golf,Tijuana,Baja California,22020,67
+AV. INDEPENDENCIA NO. 545-D,Candox,Tuxtla Gutierrez,Chiapas,29016,68
+AV. JESUS CARRANZA NO. 60,Canteras,Tuxtla Gutierrez,Chiapas,29014,69
+AV. ROBERTYO COLORADO 1350,Capulines 1,Tuxtla Gutierrez,Chiapas,29017,70
+C. ALDAMA NO. 153,Capulines 2,Tuxtla Gutierrez,Chiapas,29017,71
+AV. LIBERTAD NO. 34,Carlos Salinas,Mexicali,Baja California,21137,72
+AV. 20 DE NOVIEMBRE NO. 1020,Casa Hogar CTM,Guadalajara,Jalisco,44219,73
+CAMINO LOMA ALTA NO. 1000,Castillo,Tijuana,Baja California,22050,74
+AV. INDEPENDENCIA NO. 579,Cazadores Juarenses,Juarez,Chihuahua,32110,75
+CALLE 21 DE MARZO NO. 17,Celanese,Toluca,Mexico,50010,76
+CALLE MATAMOROS NO. 2-B,Centro,Culiacan,Sinaloa,80000,77
+INDEPENDENCIA NO. 717,Centro,Juarez,Chihuahua,32000,78
+18 DE MARZO NO. 1111,Centro,Toluca,Mexico,50000,79
+AV. INDEPENDENCIA NO. 1054,Centro Sinaloa,Culiacan,Sinaloa,80000,80
+ALDAMA 19-13,Cerro Grande,Chihuahua,Chihuahua,31054,81
+AV.LIBERTAD NO. 33,Chapultepec,Tijuana,Baja California,22020,82
+AV. INDEPENDENCIA NO. 85,Chapultepec Este,Tijuana,Baja California,22020,83
+CALLE MATAMOROS NO. 237,Chepevera,Monterrey,Nuevo Leon,64030,84
+CALLEJON DE LA NOCHE TRISTE NO.23,Chiapas Solidario,Tuxtla Gutierrez,Chiapas,29018,85
+CALLE OCAMPO NO. 231,Chula Vista,Tijuana,Baja California,22045,86
+OCAMPO NO. 231,Claudia,Chihuahua,Chihuahua,31020,87
+CALLE MORELOS NO. 44,Colinas de Oriente,Tuxtla Gutierrez,Chiapas,29017,88
+AV DANIEL SOTO 738,Colon,Chihuahua,Chihuahua,31000,89
+AV. INDEPENDENCIA NO. 1231 A,Colonia No. 9,Guadalajara,Jalisco,44300,90
+AV. INDEPENDENCIA NO. 562,Coltongo,Azcapotzalco,Distrito Federal,2630,91
+AV. 5 DE MAYO NO. 583,Constituyentes,Mexicali,Baja California,21060,92
+AV. LIBERTAD NO. 56,Consumidor,Juarez,Chihuahua,32140,93
+AV. INDEPENDENCIA NO. 500,Corregidora,Juarez,Chihuahua,32080,94
+AV. INDEPENDENCIA N0.562,Cosalimita,Tabasco,Zacatecas,99630,95
+AV. 20 DE NOVIEMBRE 795,Cosmopolita,Azcapotzalco,Distrito Federal,2670,96
+AV. PRINCIPAL S/N.,CROC 6 Olimpia,Azcapotzalco,Distrito Federal,2109,97
+AV INDEPENDENCIA NO 219,Cuarteles,Chihuahua,Chihuahua,31020,98
+AV. INDEPENDENCIA NO. 740,Cubillas,Tijuana,Baja California,22045,99
+MATAMOROS NO. 327,Cubillas Sur,Tijuana,Baja California,22045,100
+KM.13 CARRET. CD. ALEMAN-TUXTEPEC,Dale,Chihuahua,Chihuahua,31050,101
+AV. INDEPENDENCIA NO. 1639,De la Crespa,Toluca,Mexico,50016,102
+AV.INDEPEND.NO. 1065,Deitz,Guadalajara,Jalisco,44158,103
+BOULEVAR BENITO JUAREZ NO. 197 -A,Del Carmen,Juarez,Chihuahua,32160,104
+INDEPENDENCIA 1519,Del Maestro,Azcapotzalco,Distrito Federal,2040,105
+CALLE MORELOS NO. 24,Del Norte,Juarez,Chihuahua,32030,106
+CALLE MATAMOROS NO. 225,Del Parque,Tabasco,Zacatecas,99630,107
+AV. INDEPENDENCIA NO. 720,Del Rastro,Mexicali,Baja California,21090,108
+AV.INDEPENDENCIA NO. 574,Del Recreo,Azcapotzalco,Distrito Federal,2070,109
+AV. INDEPENDENCIA NO. 565-A,Del Trabajo CTM,Guadalajara,Jalisco,44216,110
+AV. LIBERTAD NO. 956,Deportivo Obispado,Monterrey,Nuevo Leon,64040,111
+AV. LIBERTAD NO. 897,Diego de Montemayor,Monterrey,Nuevo Leon,64103,112
+PRINCIPAL S/N. TEMAZCAL.,Dimenstein,Tijuana,Baja California,22105,113
+HIDALGO NO. 96,Durango,Juarez,Chihuahua,32160,114
+CALLE HIDALGO NO.96,El Bajo,Chihuahua,Chihuahua,31000,115
+AV. INDEPENDENCIA NO. 1457,El Barreal,Juarez,Chihuahua,32040,116
+AV. 5 DE MAYO NO. 551,El Bosque,Tijuana,Baja California,22034,117
+CALLE ALDAMA NO. 99,El Charco,Toluca,Mexico,50019,118
+AV. 20 DE NOVIEMBRE NO. 1121,El Colonial,Mexicali,Baja California,21137,119
+AV. 5 DE MAYO NO. 1953,El Cuarenta y Cinco,Juarez,Coahuila de Zaragoza,25419,120
+CALLE ALDAMA NO.720,El Jaguey,Guadalajara,Jalisco,44249,121
+AV. 18 DE MARZO ESQ. BLVD.M. AVILA CAMACHO NO. 1372,El Jaralillo,Tabasco,Zacatecas,99630,122
+CALLE ALDAMA NO. 144-A,El Magueyito,Tuxtla Gutierrez,Chiapas,29000,123
+BLVD. BENITO JUAREZ NO. 1291,El Mirador,Culiacan,Sinaloa,80017,124
+AV. 20 DE NOVIEMBRE NO. 970-B,El Mirador Centro,Monterrey,Nuevo Leon,64070,125
+CALLE MORELOS NO.426,El Mogote,Toluca,Mexico,50018,126
+PROL. AV. 5 DE MAYO NO. 270,El Pedregal,Tijuana,Baja California,22104,127
+LIBERTAD NO. 2005,El Pedregal Oeste,Tijuana,Baja California,22104,128
+BOULEVAR BGENITO JUAREZ 1291,El Prado,Tijuana,Baja California,22105,129
+20 DE NOVIEMBRE NO. 1081,El Refugio,Tabasco,Zacatecas,99630,130
+AV. 20 DE NOVIEMBRE NO. 1081,El Retiro,Guadalajara,Jalisco,44280,131
+AV. INDEPENDENCIA NO. 574,El Rosario,Azcapotzalco,Distrito Federal,2100,132
+INDEPENDENCIA NO. 605,El Santuario,Guadalajara,Jalisco,44200,133
+AV. INDEPENDENCIA NO 1021,El Tejocote,Toluca,Mexico,50010,134
+HIDALGO NO 689,El Valle,Tuxtla Gutierrez,Chiapas,29010,135
+AV. INDEPENDENCIA NO. 497,El Vidrio,Mexicali,Baja California,21080,136
+AVENIDA 5 DE MAYO NO. 1226,Eligio Esquivel,Mexicali,Baja California,21110,137
+AV INDEPENDENCIA NO. 545-B,Empleados Federales,Tijuana,Baja California,22010,138
+CALLE MATAMOROS NO. 40,Espacios Marsella,Culiacan,Sinaloa,80018,139
+BLVD. MANUEL AVILA CAMACHO 435,Esperanza,Guadalajara,Jalisco,44300,140
+AV. 20 DE NOVIEMBRE NO. 1105 ESQ.OCAMPO,Estadio,Guadalajara,Jalisco,44240,141
+CALLE MATAMOROS NO. 147,Estadio,Guadalajara,Jalisco,44307,142
+AV. INDEPENDENCIA NO. 390 ANTES 396,Estadio Poniente,Guadalajara,Jalisco,44246,143
+AV. 20 DE NOVIEMBRE NO. 1027,Estrada,Tuxtla Gutierrez,Chiapas,29017,144
+AV. INDEPENDENCIA NO.745-BIS,Estrella de Oriente,Tuxtla Gutierrez,Chiapas,29010,145
+AV. JESUS CARRANZA NO. 123,Eugenia,Guadalajara,Jalisco,44267,146
+AV. 20 DE NOV. NO. 1372,Eugenio Garza Sada,Monterrey,Nuevo Leon,64103,147
+AV. 5 DE MAYO NO.1380,Euzkadi,Azcapotzalco,Distrito Federal,2660,148
+AV. INDEPENDENCIA NO.117 ESQ.ARISTA,Exseminario,Monterrey,Nuevo Leon,64049,149
+20 DE NOVIEMBRE 1501,Fabrica de Atemajac,Guadalajara,Jalisco,44218,150
+INDEPENDENCIA 85,Ferrocarril,Mexicali,Baja California,21040,151
+DANIEL SOTO NO.370,Ferrocarrilera,Chihuahua,Chihuahua,31034,152
+AV. INDEPENDENCIA NO. 611,Floresta,Culiacan,Sinaloa,80014,153
+AV. INDEPENDENCIA NO. 413,FOVISSSTE,Mexicali,Baja California,21038,154
+CALLE OCAMPO NO.420,FOVISSSTE Diamante,Culiacan,Sinaloa,80020,155
+PROLONG. INDEPENDENCIA NO. 2237,Francisco R Almada,Chihuahua,Chihuahua,31034,156
+AV. INDEPENDENCIA NO. 718,Francisco Sarabia,Juarez,Chihuahua,32150,157
+AV. 1O. DE MAYO NO. 29,Francisco Villa,Azcapotzalco,Distrito Federal,2420,158
+CALLE ALDAMA NO.233-A,Fresnos,Culiacan,Sinaloa,80010,159
+AV. INDEPENDENCIA NO.147,Fronteriza,Mexicali,Baja California,21110,160
+INDEPENDENCIA NO. 569 B,Fundadores,Tijuana,Baja California,22046,161
+LIBERTAD 56,Gabilondo,Tijuana,Baja California,22044,162
+CALLE MELCHOR OCAMPO NO. 635,Girasoles,Culiacan,Sinaloa,80019,163
+AV. INDEPENDENCIA NO.1004,Gonzalitos,Monterrey,Nuevo Leon,64020,164
+AV. 5 DE MAYO NO. 1637,Gran Morada,Toluca,Mexico,50010,165
+AV. 5 DE MAYO 1634,Grecia,Culiacan,Sinaloa,80015,166
+PONCIANO ARRIAGA NO. 43,Grijalva,Tuxtla Gutierrez,Chiapas,29016,167
+CALLE MATAMOROS NO.29-3,Guadalajara,Tijuana,Baja California,22046,168
+AV. JESUS CARRANZA NO. 1067,Guadalajara Centro,Guadalajara,Jalisco,44100,169
+AV. FERROCARRIL S/N.,Guadalupana Norte,Guadalajara,Jalisco,44220,170
+AV. 5 DE MAYO NO.1544,Guadalupana Sur,Guadalajara,Jalisco,44220,171
+MATAMOROS No. 138,Guadalupe,Toluca,Mexico,50010,172
+AV. 20 DE NOVIEMBRE No. 1037,Guadalupe,Tuxtla Gutierrez,Chiapas,29000,173
+AV. 20 DE NOVIEMBRE NO. 1139-B,Guajardo,Mexicali,Baja California,21050,174
+AV. 20 DE NOVIEMBRE No50221,Guerrero,Tijuana,Baja California,22055,175
+AV. 5 DE MAYO No. 1350,Gustavo Diaz Ordaz,Chihuahua,Chihuahua,31034,176
+AV. INDEPENDENCIA No. 393,Hacienda Alameda,Culiacan,Sinaloa,80019,177
+BULEVAR No810,Hacienda Arboledas,Culiacan,Sinaloa,80019,178
+CALLE SEBASTIAN ORTIZ NO.549,Haciendas Orizaba,Mexicali,Baja California,21135,179
+CALLE MORELOS NO. 30,Herradura,Tijuana,Baja California,22034,180
+CALLE MORELOS NO. 330 INT.2,Herradura Pdu,Chihuahua,Chihuahua,31020,181
+AV 5 DE MAYO 659,Herradura Sur,Tijuana,Baja California,22035,182
+OCAMPO 38,Hidalgo,Juarez,Chiapas,29514,183
+AV. 20 DE NOVIEMBRE NO. 1070,Hidalgo,Tijuana,Baja California,22056,184
+AV. 5 DE MAYO NO. 1401,Huajitlan,Tuxtla Gutierrez,Chiapas,29010,185
+AV. INDEPENDENCIA N0.1166,Huiscolco,Tabasco,Zacatecas,99630,186
+AV. 20 DE NOVIEMBRE NO. 964,Humaya,Culiacan,Sinaloa,80020,187
+AV. 20 DE NOVIEMBRE NO. 933,Ignacio Aldama,Juarez,Chihuahua,32160,188
+AV. INDEPENDENCIA NO. 1811,Ignacio Allende,Culiacan,Sinaloa,80010,189
+CALLE OCAMPO NO.266,Ignacio Altamirano,Monterrey,Nuevo Leon,64103,190
+AV. INDEPENDENCIA NO. 1162,Independencia,Guadalajara,Jalisco,44290,191
+AV. INDEPENDENCIA N0.900,Independencia,Tijuana,Baja California,22055,192
+AV. INDEPENDENCIA NO.900,Industrial,Mexicali,Baja California,21010,193
+CALLE ALDAMA NO.53,Industrial Vallejo,Azcapotzalco,Distrito Federal,2300,194
+20 DE NOVIEMBRE 1371,Insurgentes,Juarez,Chihuahua,32150,195
+AV. 1O. DE MAYO NO. 240,Interlomas,Culiacan,Sinaloa,80016,196
+CALLE HIDALGO NO. 501,Jardines Alcalde,Guadalajara,Jalisco,44298,197
+ALDAMA NO. 720,Jardines del Cerro,Monterrey,Nuevo Leon,64050,198
+20 DE NOVIEMBRE NO 1422,Jardines del Norte,Tuxtla Gutierrez,Chiapas,29019,199
+LIBERTAD NO. 1046,Jardines del Rey,Monterrey,Nuevo Leon,64102,200
+AV. INDEPENDENCIA NO 1023,Kervin,Azcapotzalco,Distrito Federal,2490,201
+AV. LIBERTAD NO. 1046,La Alianza Sector B,Monterrey,Nuevo Leon,64103,202
+AV. 5 DE MAYO NO. 1683,La Alianza Sector C,Monterrey,Nuevo Leon,64103,203
+AV. INDEPENDENCIA NO.587,La Arena,Juarez,Chiapas,29517,204
+INDEPENDENCIA NO. 587,La Cantera,Guadalajara,Jalisco,44306,205
+AV. INDEPENDENCIA NO.677,La Capilla,Tabasco,Zacatecas,99630,206
+MATAMOROS 2,La Condesa,Tuxtla Gutierrez,Chiapas,29018,207
+BLVD. FRANCISCO FERNANDEZ ARTEAGA NO.1984,La Conquista,Juarez,Chihuahua,32107,208
+BLVD. BENITO JUAREZ ESQ. IGNACIO MATIAS S/N.,La Cruz Comalco,Toluca,Mexico,50010,209
+BULEVAR BENITO JUAREZ ESQUINA I. MATIAS S/N,La Federacha,Guadalajara,Jalisco,44300,210
+C. BENITO JUAREZ NO. 72,La Finca,Monterrey,Nuevo Leon,64000,211
+AV. INDEPENDENCIA NO. 684 ALTOS,La Joya,Chihuahua,Chihuahua,31060,212
+AV. 20 DE NOVIEMBRE ESQ.EMILIANO ZAPATA S/N,La Joya,Guadalajara,Jalisco,44300,213
+AV. LIBERTAD NO. 1207,La Libertad,Juarez,Chiapas,29516,214
+AV. 5 DE MAYO NO. 660,La Loma,Toluca,Mexico,50010,215
+AV. ALFONSO CASO NO. 15,La Luna,Mexicali,Baja California,21138,216
+CALLE ALDAMA NO.70,La Magdalena,Toluca,Mexico,50010,217
+KM 1 CARRETERA A TUXTEPEC PTE EL CARACOL,La Mesa Sur,Tijuana,Baja California,22105,218
+CALLE ARTEAGA NO. 1027,La Mesita,Juarez,Chihuahua,32100,219
+INDEPENDENCIA NO. 1420,La Minita,Chihuahua,Chihuahua,31060,220
+AV. 20 DE NOVIEMBRE NO. 1960,La Normal,Guadalajara,Jalisco,44260,221
+AV. 20 DE NOVIEMBRE 813,La Preciosa,Azcapotzalco,Distrito Federal,2460,222
+SIN CALLE Y SIN NUMERO,La Remosa,Tijuana,Baja California,22030,223
+INDEPENDENCIA 623,La Retama,Toluca,Mexico,50040,224
+MATAMOROS NO. 225,La Teresona,Toluca,Mexico,50040,225
+KM.5 CARRET.TUX-PTE. CARACOL,La Vega,Toluca,Mexico,50039,226
+AV. 5 DE MAYO NO. 1906,La Victoria,Tuxtla Gutierrez,Chiapas,29010,227
+INDEPENDENCIA NO. 377,Lafayette,Guadalajara,Jalisco,44150,228
+AV. INDEPENDENCIA NO. 584,Las Brisas,Toluca,Mexico,50017,229
+AV. INDEPENDENCIA S/N.,Las Canteras,Tuxtla Gutierrez,Chiapas,29014,230
+AV. INDEPENDENCIA NO.908,Las Cucas,Culiacan,Sinaloa,80018,231
+AV. INDEPENDENCIA NO 511 A,Las Delicias,Tuxtla Gutierrez,Chiapas,29010,232
+20 DE NOVIEMBRE 1041,Las Estaciones,Monterrey,Nuevo Leon,64102,233
+JESUS CARRANZA 991,Las Flores,Toluca,Mexico,50018,234
+KM 3.5 CARRETERA TUXTEPEC CD. ALEMAN,Las Glorias,Culiacan,Sinaloa,80014,235
+KM.3.5 CARRET.FED. TUX-CD. ALEMAN,Las Huertas,Chihuahua,Chihuahua,31020,236
+AV 3 ESQUINA CALLE 2,Las Lajas,Tuxtla Gutierrez,Chiapas,29017,237
+GUERRERO ESC MURO,Las Lilas,Tijuana,Baja California,22105,238
+AV. 20 DE NOVIEMBRE NO 1225,Las Magdalenas,Mexicali,Baja California,21135,239
+INDEPENDENCIA 1683,Las Palmeras,Mexicali,Baja California,21135,240
+AV. 20 DE NOVIEMBRE NO.1041,Las Plazas,Monterrey,Nuevo Leon,64102,241
+LAZARO CARDENAS NO.195,Las Salinas,Azcapotzalco,Distrito Federal,2360,242
+AV. 5 DE MAYO NO. 357,Las Torres,Monterrey,Nuevo Leon,64103,243
+AV. INDEPENDENCIA NO. 427,Las Trancas,Azcapotzalco,Distrito Federal,2450,244
+INDEPENDENCIA NO. 427,Las Vencedoras,Chihuahua,Chihuahua,31054,245
+CARR. A OJITALN NO 951-A,Lealtad I,Chihuahua,Chihuahua,31060,246
+AV. 5 DE MAYO NO 1189,Leyes de Reforma,Juarez,Chihuahua,32090,247
+BLVD. BENITO JUAREZ NO 439 B,Libertad,Azcapotzalco,Distrito Federal,2050,248
+AV. 20 DE NOVIEMBRE No. 1950,Libertad,Mexicali,Baja California,21030,249
+AV. INDEPENDENCIA NO. 395,Linda Vista,Tabasco,Zacatecas,99630,250
+BENITO JUAREZ NO 568,Linda Vista,Tijuana,Baja California,22054,251
+AV.INDEPENDENCIA NO. 246,Linda Vista Shanka,Tuxtla Gutierrez,Chiapas,29016,252
+FRANCISCO I. MADERO NO. 182,Linss,Chihuahua,Chihuahua,31020,253
+AV. JESUS CARRANZA NO.73,Loma Alta,Chihuahua,Chihuahua,31054,254
+AV. 5 DE MAYO NO. 1230-B,Loma de Rodriguera,Culiacan,Sinaloa,80019,255
+AV. INDEPENDENCIA No.528,Loma Real,Tuxtla Gutierrez,Chiapas,29014,256
+AV. JESUS CARRANZA NO.765,Lomas,Monterrey,Nuevo Leon,64030,257
+AV. INDEPENDENCIA NO. 47,Lomas de Tamazula,Culiacan,Sinaloa,80014,258
+AV. INDEPENDENCIA NO. 701,Lomas Del Pedregal,Culiacan,Sinaloa,80016,259
+AV.INDEPENDENCIA NO 623,Lomas del Poleo,Juarez,Chihuahua,32107,260
+CALLE MORELOS NO.72,Lomas del Sol,Culiacan,Sinaloa,80016,261
+AV. INDEPENDENCIA NO. 666,Lomas del Valle,Tuxtla Gutierrez,Chiapas,29010,262
+CALLE ITURBIDE NO. 52,Los Alamitos,Culiacan,Sinaloa,80018,263
+AV. REFORMA NO.587,Los Angeles,Culiacan,Sinaloa,80014,264
+AV. INDEPENDENCIA NO. 1029,Los Arcos,Mexicali,Baja California,21079,265
+CALLE MATAMOROS NO. 78,Los Capulines III,Tuxtla Gutierrez,Chiapas,29017,266
+CALLE MATAMOROS NO. 11,Los Ciruelos,Culiacan,Sinaloa,80019,267
+AV. INDEPENDENCIA NO. 377,Los Faisanes,Mexicali,Baja California,21135,268
+AV. 20 DE NOVIEMBRE NO.772,Los Frailes,Toluca,Mexico,50020,269
+AV. INDEPENDENCIA NO. 374,Los Girasoles,Toluca,Mexico,50010,270
+AV. INDEPENDENCIA NO. 727,Los Girasoles I,Toluca,Mexico,50010,271
+20 DE NOVIEMBRE NO. 1858,Los Girasoles II,Toluca,Mexico,50010,272
+PROLONG.INDEPENDENCIA NO.468-B,Los Girasoles III,Toluca,Mexico,50010,273
+CARR.OJITLAN NO.43,Los Girasoles IV,Toluca,Mexico,50010,274
+CALLE GUERRERO ESQ. MURO BLVD.,Los Huertos,Culiacan,Sinaloa,80019,275
+AV 5 DE MAYO NO. 1006,Los Manguitos,Tuxtla Gutierrez,Chiapas,29010,276
+MATAMOROS 127,Los Mezcales,Culiacan,Sinaloa,80019,277
+AV. INDEPENDENCIA NO. 21,Los Milagros,Mexicali,Baja California,21138,278
+AV. INDEPENDENCIA 666,Los Olivos,Mexicali,Baja California,21135,279
+BLVD.BENITO JUAREZ NO. 42-C,Los Oyameles,Azcapotzalco,Distrito Federal,2100,280
+DOMICILIO CONOCIDO S/N.,Los Reyes,Azcapotzalco,Distrito Federal,2010,281
+DOMICILIO CONOCIDO KM.21,Los Santos,Tijuana,Baja California,22104,282
+AV. INDEPENDENCIA NO. 568,Lucerna,Mexicali,Baja California,21137,283
+11 PONIENTE S/N.,Madera 65,Chihuahua,Chihuahua,31060,284
+JESUS CARRANZA NO. 139,Madero (Cacho),Tijuana,Baja California,22040,285
+AV. 5 DE MAYO NO. 1259,Madero Sur,Tijuana,Baja California,22046,286
+AV. 5 DE MAYO 1281,Magisterial,Tabasco,Zacatecas,99630,287
+AV. 20 DE NOVIEMBRE NO.1636,Magisterio 2000,Tuxtla Gutierrez,Chiapas,29010,288
+AV. MANCILLA ESQ. ALDAMA S/N.,Maralago,Culiacan,Sinaloa,80014,289
+INDEPENDENCIA NO. 241,Maria Luisa,Monterrey,Nuevo Leon,64040,290
+KM.2 CARR.FEDERAL TUX-OAXACA.,Maya,Tuxtla Gutierrez,Chiapas,29010,291
+KM. 13 CARR. MIGUEL ALEMÌN,Mayos,Mexicali,Baja California,21137,292
+AV. INDEPENDENCIA NO. 643 (425),Melchor Ocampo,Chihuahua,Chihuahua,31050,293
+C. ZARAGOZA NO. 329,Mexicaltzingo,Guadalajara,Jalisco,44180,294
+C. MARINA HERNANDEZ N. 5,Mezquitan,Guadalajara,Jalisco,44260,295
+AV. INDEPENDENCIA N0.405,Mezquitan Country,Guadalajara,Jalisco,44260,296
+AV. INDEPENDENCIA NO. 405,Miguel Galindo,Guadalajara,Jalisco,44260,297
+INDEPENDENCIA 824,Miguel Hidalgo,Azcapotzalco,Distrito Federal,2450,298
+AV INDEPENDENCIA NO 1189,Miraflores,Guadalajara,Jalisco,44270,299
+PRIMERO DE MAYO NO 48 ALTOS,Mirasol,Monterrey,Nuevo Leon,64102,300
+CALLE ALDAMA NO 64,Misol-ha,Tuxtla Gutierrez,Chiapas,29010,301
+PONCIANO ARRIAGA NO 45,Mitras Sur,Monterrey,Nuevo Leon,64020,302
+AV. INDEPENDENCIA NO 1683,Moderna,Guadalajara,Jalisco,44190,303
+C 1O DE MAYO NO 4,Monasterios,Tabasco,Zacatecas,99630,304
+DANIEL SOTO NO 354,Monte Alto,Azcapotzalco,Distrito Federal,2640,305
+AV. INDEPENDENCIA NO 117,Monterrey,Juarez,Chihuahua,32070,306
+AV. JESUS CARRANZA NO 1651 ALTOS,Monterrey,Tijuana,Baja California,22046,307
+MARIANO ARISTA NO 454,Monterrey Centro,Monterrey,Nuevo Leon,64000,308
+BOULEVARD BENITO JUAREZ ESQ. INDEPENDENCIA,Montesierra,Culiacan,Sinaloa,80017,309
+INDEPENDENCIA NO 124,Monumental,Guadalajara,Jalisco,44320,310
+AV. INDEPENDENCIA NO. 608,Monumento,Juarez,Chihuahua,32020,311
+INDEPENDENCIA No 1655,Morelos,Juarez,Chiapas,29510,312
+AV. 5 DE MAYO NO 1850,Morelos,Tijuana,Baja California,22056,313
+AV. 5 DE MAYO NO 1014,Morelos,Tuxtla Gutierrez,Chiapas,29010,314
+AV. 5 DE MAYO No. 1763,Moreno,Tijuana,Baja California,22105,315
+CALLE OCAMPO NO.,Nacozari,Mexicali,Baja California,21030,316
+AV. 20 DE NOVIEMBRE ESZ SANTOS,Natalia Venegas,Tuxtla Gutierrez,Chiapas,29017,317
+AV. 20 DE NOVIEMBRE ESQ. SANTOS DEGOLLADO,Neidhart,Tijuana,Baja California,22020,318
+AV. INDEPENDENCIA N0.691,Nextengo,Azcapotzalco,Distrito Federal,2070,319
+NICOLAS BRAVO NO 1270,Nueva,Mexicali,Baja California,21100,320
+AV. 20 DE NOVIEMBRE ESQ. MATAMOROS,Nueva Delicias,Tuxtla Gutierrez,Chiapas,29010,321
+MATAMOROS NO. 325,Nueva El Rosario,Azcapotzalco,Distrito Federal,2128,322
+AV. INDEPENDENCIA NO. 1001,Nueva Esperanza,Mexicali,Baja California,21050,323
+PLAN DE AYALA S/N.,Nueva Estrella,Tuxtla Gutierrez,Chiapas,29010,324
+MATAMOROS NO 360,Nueva Galaxia,Culiacan,Sinaloa,80014,325
+AV. INDEPENDENCIA NO 1247,Nueva Reforma,Tuxtla Gutierrez,Chiapas,29010,326
+AV. 5 DE MAYO NO 1911,Nuevo Mundo,Juarez,Chiapas,29518,327
+AV. LIBERTAD NO 387 ESQ. MORELOS,Nuevo Progreso,Juarez,Chiapas,29510,328
+AV. 5 DE MAYO NO. 1400,Nuevo Sur,Guadalajara,Jalisco,44240,329
+MIGUEL HIDALGO NO 409,Obispado,Monterrey,Nuevo Leon,64060,330
+AV.INDEPENDENCIA NO 672,Obrera,Juarez,Chihuahua,32050,331
+CALLE SEBASTIAN ORTIZ NO 690,Obrera,Monterrey,Nuevo Leon,64010,332
+PROL. AV 5 DE MAYO NO 109,Obrera Centro,Guadalajara,Jalisco,44140,333
+AV. INDEPENDENCIA NO 531,Obrero Campesino,Culiacan,Sinaloa,80013,334
+LIBERTAD 1024,Observatorio,Guadalajara,Jalisco,44266,335
+KM. 2 CARRETERA TUXTEPEC OAXACA,Orizaba,Mexicali,Baja California,21130,336
+AVENIDA 3 CALLE 2,Pablo Amaya Norte,Chihuahua,Chihuahua,31050,337
+BLVD. BENITO JUAREZ NO 409,Pablo Amaya Sur,Chihuahua,Chihuahua,31050,338
+AV. INDEPENDENCIA NO 1125,Pacifico,Chihuahua,Chihuahua,31030,339
+AV. INDEPENDENCIA NO 171,Palestina,Azcapotzalco,Distrito Federal,2070,340
+AV. 5 DE MAYO NO.801,Palestina,Juarez,Chiapas,29510,341
+AV. INDEPENDENCIA NO.166,Palmar de Orizaba,Mexicali,Baja California,21135,342
+AV. INDEPENDENCIA NO.725,Pantaco,Azcapotzalco,Distrito Federal,2510,343
+CENTRO PINERO,Parque Rotario,Chihuahua,Chihuahua,31000,344
+AV. INDEPENDENCIA NO 1950,Partido Romero,Juarez,Chihuahua,32030,345
+ADOLFO LOPEZ MATEOS NO 25,Paseo Alameda,Culiacan,Sinaloa,80019,346
+HERMENEGILDO GALEANA S/N,Pasteros,Azcapotzalco,Distrito Federal,2150,347
+AV. 5 DE MAYO NO 954,Periodistas,Monterrey,Nuevo Leon,64103,348
+INT. PASAJE COMERCIAL LOCAL No. 4 ,Petrolera,Azcapotzalco,Distrito Federal,2480,349
+INDEPENDENCIA NO 6,Pistimbak,Tuxtla Gutierrez,Chiapas,29018,350
+MATAMOROS 40,Pitolaca,Azcapotzalco,Distrito Federal,2260,351
+INDEPENDENCIA 432,Planetario,Tijuana,Baja California,22034,352
+AV. INDEPENDENCIA NO.932,Pomarrosa,Tuxtla Gutierrez,Chiapas,29014,353
+BLVD.BENITO JUAREZ NO.786,Popular,Juarez,Chihuahua,32110,354
+AV. LIBERTAD NO 1294,Postal,Juarez,Chihuahua,32140,355
+AV. 20 DE NOVIEMBRE NO. 1371,Potinaspak,Tuxtla Gutierrez,Chiapas,29018,356
+KM.13 CARRET.CD. ALEMAN-TUXTEPEC,Prados del Rosario,Azcapotzalco,Distrito Federal,2410,357
+BENITO JUAREZ 25,Presidente Madero,Azcapotzalco,Distrito Federal,2430,358
+AV. 1O. DE MAYO NO. 102,Presita Magueyosa,Juarez,Coahuila de Zaragoza,25402,359
+AV. 1O. DE MAYO NO. 108,Privada Catalana,Tijuana,Baja California,22025,360
+AV. 20 DE NOVIEMBRE NO. 1210,Privadas de Lincoln,Monterrey,Nuevo Leon,64100,361
+BENITO JUAREZ NO 25,Pro-Hogar,Azcapotzalco,Distrito Federal,2600,362
+MATAMOROS 29,Providencia,Azcapotzalco,Distrito Federal,2440,363
+AV. LIBERTAD NO. 1961,Pueblo Bonito,Culiacan,Sinaloa,80020,364
+CALLE MATAMOROS NO. 236,Pueblo Bonito,Tijuana,Baja California,22034,365
+AV. INDEPENDENCIA 1019,Pueblo Nuevo,Mexicali,Baja California,21120,366
+AV. 5 DE MAYO NO. 1690,Puerta de Hierro,Tijuana,Baja California,22024,367
+ALDAMA 50,Puerta del Sol,Chihuahua,Chihuahua,31060,368
+MATAMOROS 123,Puerto de Anapra,Juarez,Chihuahua,32107,369
+CALLE MATAMOROS NO. 123,Puerto la Paz,Juarez,Chihuahua,32159,370
+AV. INDEPENDENCIA NO.864,Rachali,Chihuahua,Chihuahua,31060,371
+AV. 5 DE MAYO NO.1987,Rancho Anapra,Juarez,Chihuahua,32107,372
+AV. INDEPENDENCIA NO. 1370-B,Rancho el Grande,Tijuana,Baja California,22025,373
+AV. 20 DE NOVIEMBRE NO.1022,Rancho la Mora,Toluca,Mexico,50020,374
+LIBERTAD ESQ. MORELOS 834,Reforma,Chihuahua,Chihuahua,31034,375
+BLVD. BENITO JUAREZ NO. 197-A,Residencial Zarco,Chihuahua,Chihuahua,31020,376
+AV. 5 DE MAYO NO. 954,Reynosa Tamaulipas,Azcapotzalco,Distrito Federal,2200,377
+CALLE MATAMOROS NO. 31,Rinconada el Olivar,Azcapotzalco,Distrito Federal,2400,378
+OAXACA S/N,Roma,Tijuana,Baja California,22054,379
+AV. SEBASTIAN ORTIZ NO.229,Rosario,Chihuahua,Chihuahua,31030,380
+AV. 5 DE MAYO ESQ. ALDAMA No. 991,Rosario Poniente,Tuxtla Gutierrez,Chiapas,29014,381
+CALLE LAZARO CARDENAS S/N.,Rosario Uzarraga,Culiacan,Sinaloa,80014,382
+AV. 20 DE NOVIEMBRE NO.2244,Rosendo Salazar,Azcapotzalco,Distrito Federal,2409,383
+CALLE JUAREZ NO. 855,Rotarismo,Culiacan,Sinaloa,80019,384
+AV. 5 DE MAYO NO. 631,Ruben Jaramillo,Culiacan,Sinaloa,80015,385
+AV. 5 DE MAYO ESQ. MATAMOROS NO 1070,Rubio,Chihuahua,Chihuahua,31020,386
+AV. INDEPENDENCIA NO.787,Sagrada Familia,Guadalajara,Jalisco,44200,387
+INDEPENDENCIA 807,San Agustin,Chihuahua,Chihuahua,31054,388
+AV. INDEPENDENCIA NO. 409,San Angelin,Toluca,Mexico,50010,389
+INDEPENDENCIA NO. 409,San Antonio,Guadalajara,Jalisco,44170,390
+CALLE MATAMOROS NO. 415,San Antonio,Guadalajara,Jalisco,44257,391
+AV. 5 DE MAYO NO. 2061 ESQ. BLVD.BENITO JUAREZ,San Antonio,Toluca,Mexico,50018,392
+AV. JESUS CARRANZA NO. 812,San Antonio (P-37),Monterrey,Nuevo Leon,64103,393
+C. GUADALUPE VICTORIA N0.373,San Bernabe,Monterrey,Nuevo Leon,64100,394
+C. GUADALUPE VICTORIA NO 373,San Bernardo,Guadalajara,Jalisco,44260,395
+AV. JESUS CARRANZA ,San Borja,Juarez,Chihuahua,32020,396
+AV. INDEPENDENCIA ,San Clemente,Mexicali,Baja California,21138,397
+BLVD. BENITO JUAREZ ESQ. AV. INDEPENDENCIA,San David I (P- 33),Monterrey,Nuevo Leon,64103,398
+IGNACIO ZARAGOZA ,San Fernando,Chihuahua,Chihuahua,31060,399
+MIGUEL HIDALGO ,San Fernando,Tuxtla Gutierrez,Chiapas,29010,400
+BLVD. BENITO JUAREZ ,San Francisco,Tabasco,Zacatecas,99644,401
+AV. 20 DE NOVIEMBRE NO 1371,San Gabriel,Monterrey,Nuevo Leon,64103,402
+AV. 20 DE NOVIEMBRE ,San Isidro (P-108),Monterrey,Nuevo Leon,64103,403
+AV. 5 DE MAYO,San Jacinto,Mexicali,Baja California,21138,404
+CALLE PRINCIPAL S/N.,San Jacinto,Tuxtla Gutierrez,Chiapas,29000,405
+AV. INDEPENDENCIA  ANTS.998,San Jorge,Chihuahua,Chihuahua,31054,406
+CALLE SEBASTIAN ORTIZ ,San Juan,Chihuahua,Chihuahua,31054,407
+CARR. A OJITLAN ,San Juan de la Cruz,Toluca,Mexico,50010,408
+CALLE OCAMPO S/M.,San Juan Tlihuaca,Azcapotzalco,Distrito Federal,2400,409
+AV. INDENDENCIA ,San Juanito,Juarez,Chiapas,29510,410
+AV. 5 DE MAYO ,San Luis Obispo,Toluca,Mexico,50040,411
+ALDAMA ESQ. 20 DE NOVIEMBRE,San Marcos,Azcapotzalco,Distrito Federal,2020,412
+AV. MANCILLA ESQ. ALDAMA S/N,San Marcos,Mexicali,Baja California,21050,413
+C. ALDAMA ,San Marcos Oriente,Guadalajara,Jalisco,44330,414
+PROL. AV. 5 DE MAYO,San Mateo,Azcapotzalco,Distrito Federal,2490,415
+KM. 2 CARRETERA TUXTEPEC- VALLE NACIONAL,San Miguel,Chihuahua,Chihuahua,31060,416
+ARTEAGA ,San Miguel,Mexicali,Baja California,21137,417
+BLVD. BENITO JUAREZ ESQ. AV. 5 DE MAYO ,San Pablo Xalpa,Azcapotzalco,Distrito Federal,2110,418
+MATAMOROS ,San Pedro,Chihuahua,Chihuahua,31000,419
+INDEPENDENCIA,San Rafael,Azcapotzalco,Distrito Federal,2010,420
+ALDAMA ,San Rafael,Chihuahua,Chihuahua,31060,421
+,San Rafael,Toluca,Mexico,50019,422
+,Santa Catarina,Azcapotzalco,Distrito Federal,2250,423
+,Santa Clara,Mexicali,Baja California,21110,424
+,Santa Clara,Tuxtla Gutierrez,Chiapas,29014,425
+,Santa Cruz,Juarez,Chiapas,29518,426
+,Santa Cruz,Tijuana,Baja California,22105,427
+,Santa Elena Estadio,Guadalajara,Jalisco,44230,428
+,Santa Rita,Chihuahua,Chihuahua,31020,429
+,Santa Rita,Juarez,Coahuila de Zaragoza,25419,430
+,Santa Rosa,Chihuahua,Chihuahua,31050,431
+,Santiago,Tabasco,Zacatecas,99650,432
+,Santiago Miltepec,Toluca,Mexico,50020,433
+,Santo Domingo,Azcapotzalco,Distrito Federal,2160,434
+,Santo Domingo,Tuxtla Gutierrez,Chiapas,29000,435
+,Sara Lugo,Juarez,Chihuahua,32108,436
+,Sector Naval,Azcapotzalco,Distrito Federal,2080,437
+,Sector Popular,Toluca,Mexico,50040,438
+,Sector Salud,Chihuahua,Chihuahua,31020,439
+,Secundaria,Tabasco,Zacatecas,99630,440
+,Siglo XXI,Juarez,Chihuahua,32153,441
+,Sindicalista,Mexicali,Baja California,21135,442
+,Sol del Amanecer,Mexicali,Baja California,21135,443
+,Solidaridad,Culiacan,Sinaloa,80015,444
+,Tabasco,Tabasco,Zacatecas,99630,445
+,Tecpate Abajo,Juarez,Chiapas,29519,446
+,Tecpate Arriba,Juarez,Chiapas,29519,447
+,Telegrafistas,Juarez,Chihuahua,32140,448
+,Tenanguillo,Tabasco,Zacatecas,99630,449
+,Tezozomoc,Azcapotzalco,Distrito Federal,2459,450
+,Ticoman,Azcapotzalco,Distrito Federal,2240,451
+,Tierra Nueva,Azcapotzalco,Distrito Federal,2130,452
+,Tlacopa,Toluca,Mexico,50010,453
+,Toribio Ortega,Chihuahua,Chihuahua,31060,454
+,Unidad Aldama,Monterrey,Nuevo Leon,64040,455
+,Unidad Cuitlahuac,Azcapotzalco,Distrito Federal,2500,456
+,Unidad Proletaria,Chihuahua,Chihuahua,31054,457
+,Universidad,Guadalajara,Jalisco,44214,458
+,Universidad,Toluca,Mexico,50010,459
+,Universitaria,Culiacan,Sinaloa,80013,460
+,Urbi Villa Bonita,Monterrey,Nuevo Leon,64102,461
+,Urbi Villa Colonial,Monterrey,Nuevo Leon,64103,462
+,Urbi Villa del Rey,Monterrey,Nuevo Leon,64102,463
+,Vallarta Poniente,Guadalajara,Jalisco,44110,464
+,Valle del Agua,Culiacan,Sinaloa,80014,465
+,Valle Dorado,Tuxtla Gutierrez,Chiapas,29014,466
+,Valle Escondido,Chihuahua,Chihuahua,31054,467
+,Venustiano Carranza,Monterrey,Nuevo Leon,64103,468
+,Vida Mejor,Juarez,Chiapas,29510,469
+,Villa del Campo,Mexicali,Baja California,21137,470
+,Villa Del Sol,Culiacan,Sinaloa,80015,471
+,Villa Dolores,Chihuahua,Chihuahua,31054,472
+,Villa Lomas,Tijuana,Baja California,22034,473
+,Villa San Marcos,Tuxtla Gutierrez,Chiapas,29010,474
+,Villa Universidad,Culiacan,Sinaloa,80010,475
+,Villareal,Tuxtla Gutierrez,Chiapas,29014,476
+,Villas Coahuila,Mexicali,Baja California,21137,477
+,Villas de San Juan,Guadalajara,Jalisco,44299,478
+,Villas del Carmen,Monterrey,Nuevo Leon,64103,479
+,Villas Del Estadio,Guadalajara,Jalisco,44240,480
+,Villas del Sur,Chihuahua,Chihuahua,31054,481
+,Villas Galicia,Mexicali,Baja California,21137,482
+,Vista Dorada,Tijuana,Baja California,22034,483
+,Wake,Azcapotzalco,Distrito Federal,2050,484
+,Yuquis,Tuxtla Gutierrez,Chiapas,29016,485
+,Zacatecas,Juarez,Chihuahua,32130,486
+,Zacatecas,Mexicali,Baja California,21070,487
+,Zacatecas,Mexicali,Baja California,21090,488
+,Zarco,Chihuahua,Chihuahua,31020,489
+,Zona Centro,Chihuahua,Chihuahua,31000,490
+,Zona Centro,Tijuana,Baja California,22000,491
+,Zona Dorada,Culiacan,Sinaloa,80014,492
+,Zona Dorada II,Culiacan,Sinaloa,80014,493
+,Zona Este,Tijuana,Baja California,22000,494
+,Zona Industrial,Mexicali,Baja California,21010,495
+,Zona Industrial,Mexicali,Baja California,21070,496
+,Zona Industrial,Mexicali,Baja California,21090,497
+,Zona Norte,Tijuana,Baja California,22000,498
+,Zopilocalco Norte,Toluca,Mexico,50050,499
+,Zopilocalco Sur,Toluca,Mexico,50050,500

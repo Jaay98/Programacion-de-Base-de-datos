@@ -1,6 +1,6 @@
 ------VISTAS-------
 
-use ProyectoBaseDatos
+use ProyectoBD9no
 
 CREATE VIEW VWClientesDireccion
  AS SELECT Apellido_Paterno, Nombre_s, telefono , Calle_y_Numero , Municipio_Ciudad , Estado
@@ -12,7 +12,7 @@ CREATE VIEW VWClientesDireccion
  select*from VWClientesDireccion
 
 
- --procedimiento 
+ --PROCEDURES---
 CREATE PROCEDURE ALTA_CLIENTE
 AS
 SELECT*FROM tabla_clientes
