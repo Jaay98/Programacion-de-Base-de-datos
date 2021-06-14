@@ -3,7 +3,7 @@
 use ProyectoBD9no
 
 CREATE VIEW VWClientesDireccion
- AS SELECT Apellido_Paterno, Nombre_s, telefono , Calle_y_Numero , Municipio_Ciudad , Estado
+ AS SELECT Apellido_Paterno, Nombres, telefono , Calle_y_Numero , Municipio_Ciudad , Estado
  FROM tabla_clientes as E
  JOIN tabla_direccion as P 
  on E.Id = P.Id

@@ -11,10 +11,27 @@ values (GETDATE(),'Se elimino cliente', USER)
 
 DELETE FROM tabla_clientes WHERE tabla_clientes.Id = (SELECT Id FROM deleted)
 
+END
+
+DELETE from tabla_clientes where Id = 113
+select*from HistorialClteEliminado
+select*from tabla_direccion where Id = 113
+select*from Clientes_Servicios where id_Clientes = 113
+select*from tabla_clientes where Id = 113
+
+
+CREATE TRIGGER Insertar_Cliente
+on tabla_clientes for INSERT 
+as 
+BEGIN
+
+INSERT INTO HistorialClteInsertado (fecha,accion,usuario)
+values (GETDATE(),'Se inserto cliente', USER)
 
 END
 
-
+INSERT INTO tabla_clientes (Apellido_Paterno,Apellido_Materno,Nombres,Telefono,Correo) values ('ALVAREZ','YANEZ','JOSE ALONSO','6645484871','JOSE.ALVAREZ17@TECTIJUANA.EDU.MX')
+SELECT*FROM HistorialClteInsertado
 
 CREATE TRIGGER Eliminar_registros_Clientes ON tabla_clientes
 FOR DELETE 
@@ -26,11 +43,3 @@ BEGIN
 END
 
 
-DELETE from tabla_clientes where Id = 113
-drop trigger Eliminar_registros_Clientes
-drop trigger Eliminar_Cliente
-
-select*from HistorialClteEliminado
-select*from tabla_direccion where Id = 113
-select*from Clientes_Servicios where id_Clientes = 113
-select*from tabla_clientes where Id = 113

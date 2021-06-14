@@ -91,7 +91,7 @@ DECLARE  @Calle_y_Numero varchar(100) = 'PADRE KINO',
 	@Municipio_Ciudad varchar(50)= 'TIJUANA',
 	@Estado varchar(50)= 'BAJA CALIFORNIA',
 	@CP INT= 22657,
-	@Id_clientes INT= NULL
+	@Id_clientes INT= 1
 
 INSERT INTO tabla_direccion(Calle_y_Numero,Colonia,Municipio_Ciudad,Estado,CP,Id_clientes) values (@Calle_y_Numero,@Colonia,@Municipio_Ciudad,@Estado,@CP,@Id_clientes)
 END TRY

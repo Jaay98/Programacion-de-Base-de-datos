@@ -45,8 +45,17 @@ descripcion varchar(MAX),
 precio int 
 )
 
---Tabla Historial
+--Tabla Historial Eliminado
 Create table HistorialClteEliminado
+(
+  id INT IDENTITY (1,1) primary key,
+  fecha date,
+  accion varchar(100),
+  usuario varchar(100)
+)
+
+--Tabla Historial Insercion 
+Create table HistorialClteInsertado
 (
   id INT IDENTITY (1,1) primary key,
   fecha date,
